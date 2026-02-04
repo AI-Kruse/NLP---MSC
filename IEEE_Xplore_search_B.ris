@@ -1,0 +1,138 @@
+TY  - CONF
+TI  - Fault Detection of Cooling System Based on Long Short-Term Memory at Nam Ngum 1 Hydropower Plant
+T2  - 2024 International Conference on Advanced Mechatronic Systems (ICAMechS)
+SP  - 77
+EP  - 81
+AU  - B. Thansouphanh
+AU  - S. Premrudeepreechacham
+AU  - K. Ngamsanroaj
+AU  - W. Srirattanawichaikul
+PY  - 2024
+KW  - Support vector machines
+KW  - Accuracy
+KW  - Cooling
+KW  - Fault detection
+KW  - Hydroelectric power generation
+KW  - Feature extraction
+KW  - Synchronous generators
+KW  - Maintenance
+KW  - Long short term memory
+KW  - Load modeling
+KW  - Deep Learning
+KW  - Fault Detection
+KW  - LSTM
+KW  - Predictive Maintenance
+KW  - Synchronous Generator
+KW  - Nam Ngum-1 Hydropower Plant
+DO  - 10.1109/ICAMechS63130.2024.10818838
+JO  - 2024 International Conference on Advanced Mechatronic Systems (ICAMechS)
+IS  - 
+SN  - 2325-0690
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Advanced Mechatronic Systems (ICAMechS)
+Y1  - 26-30 Nov. 2024
+AB  - Synchronous generators play a vital role in hydropower plants, making reliable cooling systems essential to prevent severe performance issues and potential failures. Traditional maintenance methods for these cooling systems often rely on periodic inspections or time-based strategies, which may be limited in their ability to detect subtle or evolving faults. This paper introduces a deep-learning approach using Long Short-Term Memory (LSTM) networks for fault detection in the cooling system of the Nam Ngum-1 (NNG-1) hydropower plant in Lao PDR. The methodology involves preprocessing historical operational data to extract key features, which are then used to train the LSTM network. This network is designed to learn complex temporal patterns associated with various fault conditions. The model’s effectiveness is assessed through accuracy, precision, and recall metrics. The proposed approach not only enhances fault detection but also minimizes downtime, and optimizes maintenance schedules, ultimately improving the overall reliability and efficiency of the hydropower plant.
+ER  - 
+
+TY  - JOUR
+TI  - A Review of Research Work on Network-Based SCADA Intrusion Detection Systems
+T2  - IEEE Access
+SP  - 93083
+EP  - 93108
+AU  - S. V. B. Rakas
+AU  - M. D. Stojanović
+AU  - J. D. Marković-Petrović
+PY  - 2020
+KW  - Protocols
+KW  - SCADA systems
+KW  - Intrusion detection
+KW  - Internet
+KW  - Monitoring
+KW  - Standards
+KW  - Anomaly-based detection
+KW  - network security
+KW  - SCADA
+KW  - signature-based detection
+KW  - specification-based detection
+DO  - 10.1109/ACCESS.2020.2994961
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - Specific intrusion detection systems (IDSs) are needed to secure modern supervisory control and data acquisition (SCADA) systems due to their architecture, stringent real-time requirements, network traffic features and specific application layer protocols. This article aims to contribute to assess the state-of-the-art, identify the open issues and provide an insight for future study areas. To achieve these objectives, we start from the factors that impact the design of dedicated intrusion detection systems in SCADA networks and focus on network-based IDS solutions. We propose a structured evaluation methodology that encompasses detection techniques, protected protocols, implementation tools, test environments and IDS performance. Special attention is focused on assessing implementation maturity as well as the applicability of each surveyed solution in the Future Internet environment. Based on that, we provide a brief description and evaluation of 26 selected research papers, published in the period 2015-2019. Results of our analysis indicate considerable progress regarding the development of machine learning-based detection methods, implementation platforms, and to some extent, sophisticated testbeds. We also identify research gaps and conclude the analysis with a list of the most important directions for further research.
+ER  - 
+
+TY  - CONF
+TI  - Application of Industrial Big Data Methods for Health Status Assessment of Large-Scale Hydropower Units
+T2  - 2025 International Conference on Smart Grid and Sustainable Energy (SGSE)
+SP  - 1
+EP  - 6
+AU  - T. Yang
+AU  - S. Xia
+AU  - H. He
+AU  - J. Li
+AU  - G. Zhang
+AU  - S. Wen
+AU  - M. Chen
+PY  - 2025
+KW  - Degradation
+KW  - Fault diagnosis
+KW  - Accuracy
+KW  - Hydroelectric power generation
+KW  - Predictive models
+KW  - Big Data
+KW  - Market research
+KW  - Feature extraction
+KW  - Data models
+KW  - Steady-state
+KW  - Hydropower Unit
+KW  - Fault Diagnosis
+KW  - Industrial Big Data
+KW  - Predictive Maintenance
+DO  - 10.1109/SGSE66281.2025.11200424
+JO  - 2025 International Conference on Smart Grid and Sustainable Energy (SGSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Smart Grid and Sustainable Energy (SGSE)
+Y1  - 25-27 July 2025
+AB  - This study addresses the challenges of fault diagnosis in the health status assessment of large-scale hydropower units by proposing a comprehensive methodology based on industrial big data analytics. The proposed approach encompasses data partitioning, data cleansing strategies, steady-state and non-steady-state health modeling, as well as degradation trend modeling. By performing large-scale mining of historical operational data, the algorithm can autonomously extract baseline features and safety boundaries of healthy operation under various working conditions, enabling differentiation between normal and abnormal states. Moreover, it facilitates early anomaly trend warning and degradation fault prediction. The methodology has been validated using real-world operational data from a large hydropower unit. The results demonstrate that the proposed method significantly improves the accuracy of health assessment models across diverse operating conditions, enables timely identification of abnormal signs, and achieves long-lead-time degradation warnings. The integration of fault diagnosis algorithms with industrial big data technologies notably enhances the intelligence and reliability of health status assessment for large-scale hydropower units, providing strong support for secure operation and maintenance decision-making.
+ER  - 
+
+TY  - CONF
+TI  - AI-Based Temperature Monitoring System for Hydro Generators
+T2  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+SP  - 1
+EP  - 6
+AU  - S. D. Milić
+AU  - M. Kožicić
+PY  - 2024
+KW  - Temperature measurement
+KW  - Temperature sensors
+KW  - Fuzzy logic
+KW  - Recurrent neural networks
+KW  - Machine learning algorithms
+KW  - Decision making
+KW  - Rotors
+KW  - temperature monitoring system
+KW  - hydro generator
+KW  - fuzzy decision-making
+KW  - LSTM
+KW  - convolutional autoencoder
+DO  - 10.1109/INFOTEH60418.2024.10496027
+JO  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+IS  - 
+SN  - 2767-9470
+VO  - 
+VL  - 
+JA  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+Y1  - 20-22 March 2024
+AB  - Hydrogenerators operate in challenging environments, and temperature variations can significantly impact their performance. Temperature monitoring systems often rely on remote infrared and contact real-time temperature measurement of the generator. AI-based temperature monitoring systems offer a state-of-the-art solution, providing continuous, automated, and predictive maintenance capabilities. The paper presents a complex AI-based fuzzy decision-making algorithm for anomaly (overheated rotor pole) detection and failure prediction. Time-based analysis of operational parameters from SCADA systems is essential for failure prediction. The use of recurrent neural networks for time-series analysis and convolutional autoencoders for anomaly detection is especially emphasized. The paper also presents a fuzzy decision-making method that uses fuzzy logic to make decisions after analyzing the output of the AI models.
+ER  - 
+
+

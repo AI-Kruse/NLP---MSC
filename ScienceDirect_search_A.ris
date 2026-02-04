@@ -1,0 +1,429 @@
+TY  - JOUR
+T1  - A review of recent AI applications in next-generation power electronics
+AU  - Safari, Ashkan
+AU  - Oshnoei, Arman
+AU  - Blaabjerg, Frede
+JO  - Applied Energy
+VL  - 402
+SP  - 126923
+PY  - 2025
+DA  - 2025/12/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.126923
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925016538
+KW  - Artificial intelligence (AI)
+KW  - Control
+KW  - Design
+KW  - Maintenance
+KW  - Power electronics
+KW  - Prognosis and health management (PHM)
+AB  - Power electronics (PELS) is an important part of modern technology by enabling energy conversion, control, and management, which is essential for powering renewable energy systems (RES), electric vehicles (EVs), industrial automation, and advanced consumer electronics, thereby driving sustainability and innovation. Consequently, the efficiency and performance of PELS components are always in priority. To this end, the potential applications of generative and non-metaheuristic AI-driven algorithms in the control, maintenance, and design of PELS systems are reviewed in this paper. Covering a spectrum of models, including generative adversarial networks (GANs), neural networks (NNs), quantum neural networks (QNNs), fuzzy interfaces, and reinforcement learning (RL), this paper investigates their applications in control, maintenance, and design of PELS. The review also provides the implications of big data, generative, and non-metaheuristic AI-driven algorithms in efficiency enhancement, reliability, and sustainability of PELS-integrated energy infrastructure. Also, some of the recently funded projects in the U.S. and Europe, as well as the associated challenges and future research directions, are investigated in this emerging sector.
+ER  - 
+
+TY  - JOUR
+T1  - A Method for Constructing an Intelligent Maintenance Assistance System for Hydroelectric Stations
+AU  - Zhu, Hao
+AU  - Tang, Xiaodan
+AU  - Hu, Xin
+JO  - Procedia Computer Science
+VL  - 243
+SP  - 948
+EP  - 954
+PY  - 2024
+DA  - 2024/01/01/
+T2  - The 4th International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.09.113
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924021215
+KW  - intelligent maintenance assistance system
+KW  - big data computation
+KW  - digital technology
+KW  - maintenance management
+AB  - This paper primarily addresses the work requirements of a certain hydroelectric dam and explores a method for constructing an intelligent assistance system for maintenance in hydroelectric stations. The dam boasts a diverse array of equipment and is situated in a region characterized by complex terrain and structures, posing significant challenges to maintenance work across various disciplines. This study aims to integrate emerging technologies such as big data computation, data analysis, and knowledge graphs, alongside cutting-edge human-computer interaction theories. It seeks to develop advanced theories of maintenance assistance for hydroelectric stations, focusing on the intelligent decision-making and guidance in maintenance operations using digital technology. By achieving digitization and intelligence in maintenance management and workflow processes, this research endeavors to provide participants at every stage of maintenance operations with safe, efficient, and reliable support capabilities. Ultimately, it aims to elevate the level of digitization and intelligence in maintenance operations at hydroelectric stations to unprecedented heights, thereby enhancing the management efficiency of maintenance operations and further improving quality and efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid classification autoencoder for semi-supervised fault diagnosis in rotating machinery
+AU  - Wu, Xinya
+AU  - Zhang, Yan
+AU  - Cheng, Changming
+AU  - Peng, Zhike
+JO  - Mechanical Systems and Signal Processing
+VL  - 149
+SP  - 107327
+PY  - 2021
+DA  - 2021/02/15/
+SN  - 0888-3270
+DO  - https://doi.org/10.1016/j.ymssp.2020.107327
+UR  - https://www.sciencedirect.com/science/article/pii/S0888327020307135
+KW  - Hybrid classification autoencoder
+KW  - Semi-supervised learning
+KW  - Fault diagnosis
+KW  - Rotating machinery
+AB  - Accurate fault diagnosis is critical to the safe and reliable operation of rotating machinery. Intelligent fault diagnosis techniques based on deep learning have recently gained increasing attention due to their ability to rapidly and efficiently extract features from data and provide accurate diagnosis results. Most of the successes achieved by the state-of-the-art fault diagnosis methods are obtained through supervised learning, which requires a substantial set of labeled data. To reduce the dependence of the fault diagnosis method on labeled data and make full use of the more abundant unlabeled data, a semi-supervised fault diagnosis method called hybrid classification autoencoder is proposed in this paper. This newly designed model utilizes a softmax classifier to directly diagnose the health condition based on the encoded features from the autoencoder. The commonly used mean square error (MSE) of unsupervised autoencoder is also modified to adopt the labels of data, therefore the model can be trained using the labeled and unlabeled data simultaneously. The proposed method is validated by a motor bearing dataset and an industrial hydro turbine dataset. The results show that the proposed method can obtain fairly high diagnosis accuracies and surpass the existing methods on a very small fraction of labeled data.
+ER  - 
+
+TY  - JOUR
+T1  - Fault diagnosis method for hydropower unit via the incorporation of chaotic quadratic interpolation optimized deep learning model
+AU  - Dao, Fang
+AU  - Zeng, Yun
+AU  - Zou, Yidong
+AU  - Qian, Jing
+JO  - Measurement
+VL  - 237
+SP  - 115199
+PY  - 2024
+DA  - 2024/09/30/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2024.115199
+UR  - https://www.sciencedirect.com/science/article/pii/S0263224124010844
+KW  - Hydro-turbine
+KW  - Fault diagnosis
+KW  - Quadratic interpolation optimization
+KW  - Chaotic mapping
+KW  - CNN-LSTM
+AB  - Hydro-turbine fault diagnosis is crucial for hydropower plants’ safe and stable operation. This paper proposes a deep learning model for hydro-turbine fault diagnosis based on chaotic quadratic interpolation optimization (CQIO). Chaotic mapping optimizes the initial population of the QIO algorithm by introducing randomness and diversity, improving the algorithm’s performance and stability. The CQIO is used to calculate the optimal hyperparameter combinations for CNN-LSTM models. It can improve the model’s stability and reduce computational resource consumption. The results show that the fault accuracy of the proposed method reaches 96.7% and 93.6%, respectively, which is higher than the CNN, LSTM, CNN-LSTM, and QIO-CNN-LSTM models. Notably, the diagnostic accuracy about impact faults exceeds that of wear faults, with the latter exhibiting an augmented diagnostic accuracy as sediment increases.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of hydropower plant guide bearing vibrations by machine learning based identification of steady operations
+AU  - Lang, Xiao
+AU  - Nilsson, Håkan
+AU  - Mao, Wengang
+JO  - Renewable Energy
+VL  - 236
+SP  - 121463
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2024.121463
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148124015313
+KW  - Hydropower plant
+KW  - Steady operations
+KW  - Transients
+KW  - Vibrations
+KW  - PELT segmentation
+KW  - Adaptive DBSCAN
+AB  - A novel machine learning based method is proposed to automatically identify steady operations of hydropower plants (HPPs) in this study. The approach applies the Pruned Exact Linear Time (PELT) algorithm to obtain the number of segments (steady operations & transients) for each working period by multiple change points detection in the HPP power output time series. An adaptive Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm, capable of self-adjusting its hyperparameters according to the PELT-defined segments, is then deployed for identification of steady operations. This adaptive characteristic can outperform other clustering methods in diverse HPP operational patterns through extensive comparison based on a three-year HPP measurement dataset and statistical tests. Based on the identification from the proposed method, the statistics of the HPP's upper guide bearing vibrations during both steady operations and transients before and after a known maintenance are compared, and an apparent bearing performance degradation can be revealed during signals from steady operations. It indicates that the proposed method can help to plan optimal bearing maintenance based on data of steady operations, and shows the potential for other practical applications for predictive maintenance of the different components of the HPP.
+ER  - 
+
+TY  - JOUR
+T1  - Recent trends and open challenges in acoustic partial discharge signal denoising techniques: A review
+AU  - Kumar, Chandan
+AU  - Ganguly, Biswarup
+AU  - Dey, Debangshu
+AU  - Chatterjee, Saibal
+JO  - Electric Power Systems Research
+VL  - 248
+SP  - 111931
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0378-7796
+DO  - https://doi.org/10.1016/j.epsr.2025.111931
+UR  - https://www.sciencedirect.com/science/article/pii/S037877962500522X
+KW  - Acoustic emission
+KW  - Condition monitoring
+KW  - Deep learning
+KW  - Hybrid models
+KW  - Partial discharge
+KW  - Signal denoising
+KW  - Wavelet transform
+AB  - Partial discharge (PD) detection is vital for the condition monitoring of high-voltage equipment, especially when using acoustic emission signals due to their immunity to electromagnetic interference. However, complex and non-stationary noise sources often mask PD signals, such as electromagnetic disturbances, switching transients, and environmental interferences. This necessitates advanced denoising techniques to accurately extract PD features for diagnostics. Traditional signal processing methods like Fourier transform and wavelet analysis are limited in real-time adaptability and generalization across varying noise conditions. Recently, hybrid frameworks combining classical methods with deep learning approaches—such as CNN-AE, EMD-LSTM, and TVD-AE—have demonstrated improved performance in denoising acoustic PD signals. These models enhance noise suppression while preserving signal fidelity, enabling better fault detection and localization. This review comprehensively explores the evolution of acoustic PD signal denoising techniques, comparing traditional, machine learning, and hybrid models in terms of performance, computational cost, and practical applicability. Key challenges—including overfitting, data scarcity, real-time processing, and lack of benchmark datasets—are discussed along with potential solutions such as transfer learning, unsupervised learning, and model compression. Finally, the paper outlines open research directions and proposes a benchmarking framework to support the standardized evaluation of denoising techniques. This review aims to support the development of robust, scalable, and adaptive denoising solutions for reliable PD monitoring in HV systems by bridging the gap between advanced algorithms and practical deployment.
+ER  - 
+
+TY  - JOUR
+T1  - Machine Learning for Hydropower Scheduling: State of the Art and Future Research Directions
+AU  - Bordin, Chiara
+AU  - Skjelbred, Hans Ivar
+AU  - Kong, Jiehong
+AU  - Yang, Zhirong
+JO  - Procedia Computer Science
+VL  - 176
+SP  - 1659
+EP  - 1668
+PY  - 2020
+DA  - 2020/01/01/
+T2  - Knowledge-Based and Intelligent Information & Engineering Systems: Proceedings of the 24th International Conference KES2020
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2020.09.190
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050920320925
+KW  - Artificial Neural Networks
+KW  - Digitalisation
+KW  - Hydropower Scheduling
+KW  - Machine Learning
+AB  - This paper investigates and discusses the current and future role of machine learning (ML) within the hydropower sector. An overview of the main applications of ML in the field of hydropower operations is presented to show the most common topics that have been addressed in the scientific literature in the last years. The objective is to provide recommendations for novel research directions that can be taken in the near future to cover those areas that have not been studied so far. The key contribution of this paper lies in a critical investigation of the state of the art of ML applications in hydropower scheduling. In light of the established literature available in the last years, this study identifies and discusses new roles that can be covered by ML, coupled with cyber-physical systems (CPSs), with a particular focus on short-term hydropower scheduling (STHS) challenges.
+ER  - 
+
+TY  - JOUR
+T1  - A feature extraction and machine learning framework for bearing fault diagnosis
+AU  - Cui, Bodi
+AU  - Weng, Yang
+AU  - Zhang, Ning
+JO  - Renewable Energy
+VL  - 191
+SP  - 987
+EP  - 997
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2022.04.061
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148122005225
+KW  - Bearing fault diagnosis
+KW  - Feature extraction
+KW  - Machine learning
+KW  - Nonstationary signals
+KW  - Time-frequency analysis
+AB  - Wind power generation has been widely adopted due to its renewable nature and decreasing capital cost per kW. However, existing equipment ages rapidly, leading to higher failure rates, greater operation and maintenance costs, and worsening safety conditions, calling for improved condition monitoring and fault diagnosis for wind turbines. Past methods utilize physical models, but they are only successful in laboratory environments. As increasing data are becoming available, there are methods applying machine learning without careful discrimination, leading to low accuracy. To solve this problem, first this paper proposes to conduct unsupervised learning to understand data properties, e.g., structural density. Subsequently, the sensitivity analysis is conducted to extract the significant features and to avoid overfitting. The sensitivity of various features that are characteristics of wind turbine bearings may vary significantly under different working conditions. During such a process, the piece-wise properties are studied to improve supervised learning. By combining the properties of data and regression, a three-stage learning algorithm is proposed to refine and learn the most useful information for turbine bearing fault diagnosis. The proposed framework is validated by using real data from diversified data sets for nonstationary vibration signals of bearings.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid methodology for assessing hydropower plants under flexible operations: Leveraging experimental data and machine learning techniques
+AU  - Amini, Ali
+AU  - Rey-Mermet, Samuel
+AU  - Crettenand, Steve
+AU  - Münch-Alligné, Cécile
+JO  - Applied Energy
+VL  - 383
+SP  - 125402
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.125402
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925001321
+KW  - Hydropower
+KW  - Flexible production
+KW  - Experimental data
+KW  - Machine learning
+KW  - Virtual sensors
+AB  - In recent years, there's been a demand for more flexible hydropower to offset power fluctuations from intermittent renewables, leading to increased wear in turbines due to extended off-design operations and transients. The present paper proposes novel methods to analyze and assess experimental data of a hydropower plant for a better monitoring over time. Measurements are performed in a run-off-river plant with Francis turbines in Switzerland. During two experimental campaigns, high-frequency acquisitions up to 51.2 kHz are realized with more than 30 sensors while the SCADA data are collected at 10 Hz. In the physics-based analysis, statistical metrics and time-frequency decompositions are deployed to assess the operating conditions. To aggregate all information, the Vibrational Content Index is introduced, which unifies all sensors data by normalizing their frequency spectra with the Best Efficiency Point (BEP). This provides a single-value indicator of overall vibration, which is more sensitive than traditional metrics and easier to track over time. In the data-driven approach, the operating points are segmented into three clusters with distinct physical interpretations by applying dimensionality reduction algorithms with only two coded dimensions. This method correctly detects an abrupt change in the machine behavior for a slight power shift from 1.23PBEP to 1.30PBEP – due to full-load vortex self-excitation. Finally, the concept of virtual sensors is developed by corroborating the coded high-frequency experimental data with low-frequency SCADA using machine learning. The trained model uses SCADA data as input to estimate the sensors high-frequency response in real-time. This promising approach enables improved continuous monitoring without the need for permanent installations.
+ER  - 
+
+TY  - JOUR
+T1  - Increasing the operating range and energy production in Francis turbines by an early detection of the overload instability
+AU  - Zhao, Weiqiang
+AU  - Presas, Alexandre
+AU  - Egusquiza, Mònica
+AU  - Valentín, David
+AU  - Egusquiza, Eduard
+AU  - Valero, Carme
+JO  - Measurement
+VL  - 181
+SP  - 109580
+PY  - 2021
+DA  - 2021/08/01/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2021.109580
+UR  - https://www.sciencedirect.com/science/article/pii/S0263224121005558
+KW  - Francis turbine
+KW  - Overload instability
+KW  - Data-driven method
+KW  - PCA
+KW  - SOM
+AB  - With the increasing entrance of wind and solar power for the generation of electricity, more flexibility is demanded to hydropower plants. More flexibility means that hydro turbines have to increase the operating range between minimum and maximum power. In Francis turbines the maximum power is limited by the appearance of a strong hydraulic excitation called overload instability. When the turbine operates at loads higher than design, the cavitating vortex rope that is generated in the draft tube may become unstable, producing huge pressure fluctuations, vibrations and power swing. Turbines are not allowed to operate under these conditions in order to avoid the destruction of the unit. The overload instability emerges abruptly, even when the machine is operating in a smooth condition. No visible transition can be detected by the monitoring system, so turbine operators have no margin to react. To avoid this phenomenon, operators limit the maximum power much before reaching this condition. By doing that, the maximum power is limited as well as the regulation capacity of the unit. In this paper, the feasibility of detecting the onset of this phenomenon is analyzed. Data-driven methods and artificial intelligence techniques, including principal component analysis, self-organizing map and artificial neural networks, are applied to the data available from experimental tests in a Francis turbine. The signals of vibration, pressure fluctuations and other parameters are combined and studied. The possibilities of a premature detection of the instability before it occurs are discussed. The method could be implemented in the monitoring system of the unit so that the operating range could be safely increased.
+ER  - 
+
+TY  - JOUR
+T1  - Investigation on Machine learning based fault detection and estimation in hydro turbines of industrial hydro power plant
+AU  - Sujatha, V.
+JO  - Measurement
+VL  - 247
+SP  - 116852
+PY  - 2025
+DA  - 2025/04/15/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2025.116852
+UR  - https://www.sciencedirect.com/science/article/pii/S0263224125002118
+KW  - Estimation
+KW  - Root Mean square error
+KW  - Dynamic modelling
+KW  - Hydro turbine
+KW  - Nonlinear systems
+AB  - An industrial plant safety depends on identification, detection and estimation of faults. Appropriate fault diagnosis can result in higher productivity in process industries. Real-time fault detection is achieved using data-driven modelling of an industrial hydro power plant. It is still very difficult to simulate complicated and nonlinear systems, like hydro turbines, despite efforts to detect faults. The industrial power plant at Mettur was modelled in order to gather the data set. This article focusses on mathematical modelling of nonlinear hydro-turbines. Also, investigates the application of machine learning algorithms to detect and estimate faults in hydro turbines, which are critical components in industrial hydro power plants. The goal is to improve operational efficiency and prevent costly downtimes by identifying faults early. In order to classify healthy or faulty turbines both qualitatively and quantitatively, machine learning algorithms such as support vector machines and linear regression are used. The experimental results show that the performance measures are in good agreement with the results generated by the Support Vector Machine for the nonlinear models. The R squared value, which falls between 0 and 1, shows a better fit, while the Mean Absolute Percentage Error, which falls between 20 and 50%, indicates fair accuracy.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing the safety of hydroelectric power generation systems: an intelligent identification of axis orbits based on a nonlinear dynamics method
+AU  - Chen, Fei
+AU  - Zhao, Zhigao
+AU  - Hu, Xiaoxi
+AU  - Liu, Dong
+AU  - Kang, Zhe
+AU  - Ma, Zhe
+AU  - Xiao, Pengfei
+AU  - Yin, Xiuxing
+AU  - Yang, Jiandong
+JO  - Energy
+VL  - 324
+SP  - 135864
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2025.135864
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544225015063
+KW  - Hydraulic turbine
+KW  - axis orbit
+KW  - Intelligent identification
+KW  - Nonlinear dynamics
+KW  - feature extraction
+AB  - Hydropower has the highest percentage among renewable energies, and guaranteeing the safety of hydroelectric power generation system is of great significance in promoting the stable operation of the power grid. The axis orbit is an important index in the monitoring of hydraulic turbines. Different shapes characterize the various operating statuses of the hydraulic turbine, and accurately identifying these shapes has been a crucial issue in the intelligent operation and maintenance of hydropower plants. However, existing image-based axis orbit identification methods suffer from defects such as poor feature interpretability and weak noise immunity, making their strategy of extracting feature information solely from images unsuitable for complex operating environments. Therefore, this paper returns to the origin of the axis orbit and proposes an intelligent identification method for axis orbits based on swing signals of hydraulic turbine. Firstly, operational data of the axis orbit is collected using an eddy current sensor installed on the shaft system of the hydraulic turbine, providing a set of orthogonal swing signals. Secondly, a new nonlinear dynamic method named refined composite multivariate multiscale dispersion sample entropy (RCMvMDSE) is proposed based on multidimensional embedding theory. Finally, random forest (RF) and RCMvMDSE are utilized to achieve intelligent identification of the axis orbit. In this paper, the proposed method is applied to three scenarios: simulation, experimentation, and prototype power station. Comparative experiments are then conducted using image recognition techniques and popular nonlinear dynamics methods. The results show that the proposed method achieves excellent identification across all scenarios, with the accuracy rate, precision rate, recall rate, and F1-score of at least 90 %, which is higher than other methods, thereby verifying its advantages. It effectively reduces the likelihood of accidental shutdowns in hydroelectric power generation systems and enhances the stability of power station.
+ER  - 
+
+TY  - JOUR
+T1  - Acoustic fault diagnosis method for rotating machinery based on improved spectral subtraction and CNN-TCN model
+AU  - Liu, Yu
+AU  - Xu, Zhuofei
+AU  - He, Yunli
+AU  - Guo, Pengcheng
+AU  - Mu, Kaidi
+JO  - Measurement
+VL  - 256
+SP  - 118482
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 0263-2241
+DO  - https://doi.org/10.1016/j.measurement.2025.118482
+UR  - https://www.sciencedirect.com/science/article/pii/S026322412501841X
+KW  - Improved minimum controlled recursive average
+KW  - Temporal convolutional network
+KW  - Complete ensemble empirical mode decomposition
+KW  - Acoustic fault diagnosis
+KW  - Rotating machinery
+KW  - Hydroelectric generating unit
+AB  - This study explores the intelligent diagnosis of mechanical faults by analyzing acoustic signals. It tackles challenges such as intricate frequency components, substantial noise energy with broad bandwidth, and complex pattern recognition in mechanical fault acoustic signals. To address these issues, a novel diagnostic method is proposed. Initially, the study presents the Improved Minimum Controlled Recursive Average − Improved Spectral Subtraction Algorithm (IMCRA-ISSA) for denoising. This algorithm facilitates real-time re-estimation of the signal power spectrum and adaptively refines the spectral subtraction operator based on the estimation outcomes. This results in an adaptive spectral subtraction technique. Subsequently, the denoised acoustic signals are examined using the Complete Ensemble Empirical Mode Decomposition with Adaptive Noise (CEEMDAN) algorithm to derive multiscale intrinsic empirical mode functions that serve as effective inputs for the deep learning model. Additionally, a Convolutional Neural Network − Temporal Convolutional Network (CNN-TCN) diagnostic model is developed to identify mechanical fault signals under varying noise levels and operational conditions. This method is applied to Kaplan-type hydroelectric generating units, a typical category of electro-hydraulic systems that integrate hydraulic turbines with electric generators and are widely deployed in hydropower stations. The system successfully identifies typical fault sounds under realistic operational conditions. Comparative analysis of rotor system fault signals across different SNRs reveals that the IMCRA-ISSA method proficiently denoises mechanical fault signals within an SNR range of −20 dB to 10 dB, delivering optimal performance. It effectively resolves the issue of substantial broadband noise interference encountered when processing the acoustic signals of hydroelectric units. The CNN-TCN model not only excels in extracting the spatial features of the acoustic signals but also efficiently captures their temporal dependencies, surpassing other combined models in experimental evaluations. The proposed method effectively surmounts the challenges of denoising, filtering, and pattern recognition of rotating machinery fault acoustic signals amidst strong noise interference, demonstrating considerable engineering application value.
+ER  - 
+
+TY  - JOUR
+T1  - Fault diagnosis of hydro-turbine via the incorporation of bayesian algorithm optimized CNN-LSTM neural network
+AU  - Dao, Fang
+AU  - Zeng, Yun
+AU  - Qian, Jing
+JO  - Energy
+VL  - 290
+SP  - 130326
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2024.130326
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544224000975
+KW  - Hydro-turbine
+KW  - Fault diagnosis
+KW  - CNN-LSTM
+KW  - Bayesian optimization
+KW  - Deep learning
+AB  - The hydro-turbine is the core equipment of the hydropower station, and it is essential to diagnose and identify its faults. A fault diagnosis model based on Bayesian optimization (BO), which incorporates convolutional neural network (CNN) and long short-term memory (LSTM) methods for the hydro-turbine, is proposed (BO–CNN-LSTM). CNN adaptively extracts and down-scales fault features, fed into the LSTM model for feature learning and training. The BO algorithm is employed to address the challenge of model hyperparameter selection. A hydro-turbine fault experiment bench is constructed to train and validate the model. Experimental results demonstrate the superior performance of the proposed BO-CNN-LSTM model in hydro-turbine fault diagnosis, achieving accuracies of 92.7 %, 98.4 %, and 90.4 %, respectively, surpassing CNN, LSTM, and CNN-LSTM models. The BO-CNN-LSTM model improves accuracy by 5.5 %, 6.3 %, and 9.0 %, respectively, Compared to the unoptimized CNN-LSTM model. The BO algorithm is introduced to optimize CNN-LSTM from the perspective of acoustic vibration signals, which can be a beneficial supplement to the existing hydro-turbine fault diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - State-of-the-art review on energy and load forecasting in microgrids using artificial neural networks, machine learning, and deep learning techniques
+AU  - Wazirali, Raniyah
+AU  - Yaghoubi, Elnaz
+AU  - Abujazar, Mohammed Shadi S.
+AU  - Ahmad, Rami
+AU  - Vakili, Amir Hossein
+JO  - Electric Power Systems Research
+VL  - 225
+SP  - 109792
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0378-7796
+DO  - https://doi.org/10.1016/j.epsr.2023.109792
+UR  - https://www.sciencedirect.com/science/article/pii/S0378779623006818
+KW  - Artificial neural networks
+KW  - Machine learning
+KW  - Deep learning
+KW  - Renewable energy forecasting
+AB  - Forecasting renewable energy efficiency significantly impacts system management and operation because more precise forecasts mean reduced risk and improved stability and reliability of the network. There are several methods for forecasting and estimating energy production and demand. This paper discusses the significance of artificial neural network (ANN), machine learning (ML), and Deep Learning (DL) techniques in predicting renewable energy and load demand in various time horizons, including ultra-short-term, short-term, medium-term, and long-term. The purpose of this study is to comprehensively review the methodologies and applications that utilize the latest developments in ANN, ML, and DL for the purpose of forecasting in microgrids, with the aim of providing a systematic analysis. For this purpose, a comprehensive database from the Web of Science was selected to gather relevant research studies on the topic. This paper provides a comparison and evaluation of all three techniques for forecasting in microgrids using tables. The techniques mentioned here assist electrical engineers in becoming aware of the drawbacks and advantages of ANN, ML, and DL in both load demand and renewable energy forecasting in microgrids, enabling them to choose the best techniques for establishing a sustainable and resilient microgrid ecosystem.
+ER  - 
+
+TY  - JOUR
+T1  - Condition monitoring and diagnostic of hydropower units based on machine learning techniques
+AU  - Jad, Samy
+AU  - Desforges, Xavier
+AU  - Medjaher, Kamal
+AU  - Villard, Pierre-Yves
+AU  - Caussidéry, Christian
+JO  - Renewable Energy
+VL  - 249
+SP  - 123210
+PY  - 2025
+DA  - 2025/08/15/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2025.123210
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148125008729
+KW  - Energy transition
+KW  - Diagnostic
+KW  - Condition monitoring
+KW  - Machine learning
+KW  - Hydropower
+AB  - As the energy sector accelerates its transition toward incorporating a greater proportion of renewable and low-carbon sources in the electricity mix, ensuring the availability of hydroelectric power plants is more crucial than ever to maintain the equilibrium between electricity supply and demand. This is particularly significant in Europe, where the ageing of power plant infrastructures raises concerns about the energy grid's ability to accommodate greater capacity volatility in the context of unstable and limited remaining hydro potential. For this reason, this paper introduces a diagnostic methodology based on machine learning techniques for detecting and characterising anomalous behaviours of hydro generators related to long-term degradation in the context of seasonal periodicity. The methodology leverages time-series of monitoring data acquired in an industrial context from hydro generators commercially operated by France's state-owned energy company “Électricité de France Hydro Sud Ouest”. It employs dimensionality reduction techniques and clustering algorithms to semi-automatically identify anomalous changes in the machine production cycle, given its dataset specifications. The objective is to create an ensemble classifier composed of autoencoder-type neural networks trained to approximate the distribution of classes validated by human experts. The soft voting module based on the approximation errors of each autoencoder models is employed to create a proximity index to each class identified. The methodology aims at tackling the challenges of estimating the hydropower plant health state in the context of the sparsity of failure data and difficulty quantified effects of both seasonality and long-term degradations. Indeed, those long-lived multivariate systems feature unique designs that are adapted to their operational environments. Thus, the methodology proposes a unified framework which employ machine learning techniques to better adapt monitoring practice to the variety in system architecture while accommodate future integration of components and sensors. Therefore, it enhances operators understanding of monitoring data and generated alarms through there contextualisation while promoting a proactive strategy to discover anomalies in the system's behaviour. Consequently, it aims to support timely scheduled productive maintenance interventions.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive review of condition monitoring systems for hydropower stations: Technologies, applications, and future trends
+AU  - García Márquez, Fausto Pedro
+AU  - Gonzalo, Alfredo Peinado
+AU  - Papaelias, Mayorkinos
+JO  - Electric Power Systems Research
+VL  - 251
+SP  - 112339
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0378-7796
+DO  - https://doi.org/10.1016/j.epsr.2025.112339
+UR  - https://www.sciencedirect.com/science/article/pii/S0378779625009265
+KW  - Hydropower
+KW  - Condition monitoring
+KW  - Renewable energies
+KW  - Faults and failures analysis
+KW  - Maintenance
+AB  - Energy production using renewable energies is increasing every year. Amongst them, hydropower is a well-known and established technology. Compared with other renewable energy sources, it is not as dependent on weather and allows for energy storage. These systems require constant monitoring for early fault detection to prevent undesired downtime. Previous reviews focused on single issues such as cavitation or fatigue, or concrete monitoring system. This study expands current knowledge by presenting a comprehensive review of the state-of-the-art in condition monitoring systems applied for hydropower systems, classifying them based on the component monitored (dam, turbine, generator, etc.), the sensing technology applied (vibration, acoustic, etc.), and the issue considered for assessment (cavitation, sedimentation, water hammer, etc.). Furthermore, an analysis of findings is presented, comprehensively discussing the current trends, research gaps, and challenges in this field, followed by a discussion on practical applications and future challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Assets Performance Management systems for hydroelectric power plants—A survey
+AU  - Sartor, Matheus
+AU  - Souza, Leandro
+AU  - Júnior, Arnaldo
+AU  - Rebelo, Hugo
+AU  - Cotta, Kleyton
+AU  - Vianna, Leonardo
+AU  - Pereira, Rafael
+AU  - Morais, Marcelo
+JO  - Electric Power Systems Research
+VL  - 228
+SP  - 110080
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0378-7796
+DO  - https://doi.org/10.1016/j.epsr.2023.110080
+UR  - https://www.sciencedirect.com/science/article/pii/S0378779623009677
+KW  - Hydropower plant
+KW  - Asset performance management
+KW  - Failure detection
+KW  - Diagnostics
+KW  - Data-driven techniques
+AB  - This paper presents a survey about several works in the field of predictive maintenance for hydroelectric power plants related to Assets Performance Management systems. It discusses about how to make a system study to better understand the structure of the Hydropower Plants and its components and how to define the most significant items to the maintenance. Also, it presents predictive maintenance techniques in terms of failure detection, diagnosis and prognostics. The research shows that data-driven methods are increasingly used by Hydropower Plants. With the recent development of artificial intelligence methods, it is possible to discover unknown patterns in sensor data and learn existing relationships in the data that may not be easy for a human to discover. In this way, some hybrid methods, which mix concepts such as the transformation of time series data into the frequency domain, statistical modeling and machine learning, are being developed to perform the tasks of APM systems. The work also shows the possibility of developing methods focusing on reinforcement learning or explainable artificial intelligence for the industrial sector. Such advances can count as a contribution to the innovative nature of the electricity sector, which tends to become increasingly sustainable in order to mitigate the environmental impacts caused by production.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive review of classical and ai-driven energy management strategies for hybrid renewable energy systems
+AU  - Kouihi, Manal
+AU  - Bikndaren, Souhaila
+AU  - Moutchou, Mohamed
+AU  - ElMahjoub, Abdelhafid Ait
+AU  - Majdoul, Radouane
+JO  - e-Prime - Advances in Electrical Engineering, Electronics and Energy
+VL  - 13
+SP  - 101085
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 2772-6711
+DO  - https://doi.org/10.1016/j.prime.2025.101085
+UR  - https://www.sciencedirect.com/science/article/pii/S2772671125001925
+KW  - Hybrid renewable energy system (HRES)
+KW  - Energy management Strategies (EMS)
+KW  - Artificial Intelligence
+KW  - Storage systems
+KW  - Prediction and forecasting
+AB  - Effective energy management is essential for the performance and sustainability of hybrid renewable energy systems (HRES), which face challenges due to the variability of renewable sources and load demands. With such strategies in place, the system undergoes processes aimed at mitigation of renewable energy source and load demand variations. This review explores a wide range of management techniques, from traditional rule-based and optimization methods to advanced AI-driven approaches. The review also analyzes the strategies on the most basic measures of performance, which include scalability, flexibility, cost effectiveness, fragmentation, and structural defensibility. Special attention is given to the transformative role of AI in enhancing forecasting accuracy and real-time decision-making. This review provides energy management resources on HRES to help guide further progress and enhancement of energy strategy and conservation practices.
+ER  - 

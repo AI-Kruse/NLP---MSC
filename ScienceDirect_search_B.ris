@@ -1,0 +1,169 @@
+TY  - JOUR
+T1  - Enhancing the safety of hydroelectric power generation systems: an intelligent identification of axis orbits based on a nonlinear dynamics method
+AU  - Chen, Fei
+AU  - Zhao, Zhigao
+AU  - Hu, Xiaoxi
+AU  - Liu, Dong
+AU  - Kang, Zhe
+AU  - Ma, Zhe
+AU  - Xiao, Pengfei
+AU  - Yin, Xiuxing
+AU  - Yang, Jiandong
+JO  - Energy
+VL  - 324
+SP  - 135864
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 0360-5442
+DO  - https://doi.org/10.1016/j.energy.2025.135864
+UR  - https://www.sciencedirect.com/science/article/pii/S0360544225015063
+KW  - Hydraulic turbine
+KW  - axis orbit
+KW  - Intelligent identification
+KW  - Nonlinear dynamics
+KW  - feature extraction
+AB  - Hydropower has the highest percentage among renewable energies, and guaranteeing the safety of hydroelectric power generation system is of great significance in promoting the stable operation of the power grid. The axis orbit is an important index in the monitoring of hydraulic turbines. Different shapes characterize the various operating statuses of the hydraulic turbine, and accurately identifying these shapes has been a crucial issue in the intelligent operation and maintenance of hydropower plants. However, existing image-based axis orbit identification methods suffer from defects such as poor feature interpretability and weak noise immunity, making their strategy of extracting feature information solely from images unsuitable for complex operating environments. Therefore, this paper returns to the origin of the axis orbit and proposes an intelligent identification method for axis orbits based on swing signals of hydraulic turbine. Firstly, operational data of the axis orbit is collected using an eddy current sensor installed on the shaft system of the hydraulic turbine, providing a set of orthogonal swing signals. Secondly, a new nonlinear dynamic method named refined composite multivariate multiscale dispersion sample entropy (RCMvMDSE) is proposed based on multidimensional embedding theory. Finally, random forest (RF) and RCMvMDSE are utilized to achieve intelligent identification of the axis orbit. In this paper, the proposed method is applied to three scenarios: simulation, experimentation, and prototype power station. Comparative experiments are then conducted using image recognition techniques and popular nonlinear dynamics methods. The results show that the proposed method achieves excellent identification across all scenarios, with the accuracy rate, precision rate, recall rate, and F1-score of at least 90 %, which is higher than other methods, thereby verifying its advantages. It effectively reduces the likelihood of accidental shutdowns in hydroelectric power generation systems and enhances the stability of power station.
+ER  - 
+
+TY  - JOUR
+T1  - The new role of sustainable hydropower in flexible energy systems and its technical evolution through innovation and digitalization
+AU  - Vagnoni, Elena
+AU  - Gezer, Dogan
+AU  - Anagnostopoulos, Ioannis
+AU  - Cavazzini, Giovanna
+AU  - Doujak, Eduard
+AU  - Hočevar, Marko
+AU  - Rudolf, Pavel
+JO  - Renewable Energy
+VL  - 230
+SP  - 120832
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2024.120832
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148124009005
+KW  - Hydropower
+KW  - Energy
+KW  - Sustainability
+KW  - Flexibility
+KW  - Digitalization
+AB  - Hydropower has played an important role in Europe in recent decades, offering a unique combination of safe, low-cost, and clean power generation. Today, it is still one of the largest renewable energy sources (RES), accounting for about 35 % of RES electricity generation. However, grid stability is threatened by the increasing amount of undispatchable RES. Flexibility and dynamics such as energy storage and rapid response are urgently needed to achieve EU policy goals. In such a context, hydropower can play a key role, not only as a provider of regulated renewable energy but also due to its ability to balance a renewable energy system in the short term and the medium/long term by pumped storage technology. All these aspects underline the new role of hydropower, which aims to strengthen grid stability and power supply resilience and to enable higher penetration of volatile RES. In this context, the aim of this paper is to demonstrate the role of hydropower at the European level as well as the needs and opportunities of modernization to fully exploit its potential. In particular, this study provides, the assessment of the today flexibility offered by hydropower to the power system at the European level by leveraging a database of information collected through the participants to the working groups of the COST Action Pen@Hydropower which includes stakeholders in the hydropower sector of 34 European countries. The study confirms the key role of hydropower in future energy scenarios with 30 % of the flexibility demand at all time scales met by hydropower. Furthermore, the paper presents a review of the digitalization solutions and innovative technologies that support the growth of a new generation of sustainable hydropower together with the modernization opportunities for existing hydropower plants. The results of this work have practical implications for stakeholders in the hydropower sector and policymakers as it provides evidence at the European scale of the role of hydropower technology in balancing the power system and the need to have supportive frameworks and adequate markets to fully exploit the European hydropower potential to achieve the energy transition goals.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-dimensional data processing and intelligent forecasting technologies for renewable energy generation
+AU  - Liu, Tianhao
+AU  - Shan, Linke
+AU  - Jiang, Meihui
+AU  - Li, Fangning
+AU  - Kong, Fannie
+AU  - Du, Pengcheng
+AU  - Zhu, Hongyu
+AU  - Goh, Hui Hwang
+AU  - Kurniawan, Tonni Agustiono
+AU  - Huang, Chao
+AU  - Zhang, Dongdong
+JO  - Applied Energy
+VL  - 398
+SP  - 126419
+PY  - 2025
+DA  - 2025/11/15/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.126419
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925011493
+KW  - Renewable energy generation
+KW  - Multi-dimensional data processing
+KW  - Meteorological feature extraction
+KW  - Spatiotemporal feature extraction
+KW  - Deterministic forecasting
+KW  - Probabilistic forecasting
+AB  - As the global demand for renewable energy continues to rise, efficient and intelligent management and forecasting of renewable energy generation have become a critical area of research. This study comprehensively explores the application of artificial intelligence (AI) technologies in multidimensional data processing and intelligent forecasting of renewable energy generation. By examining meteorological and spatiotemporal perspectives, it investigates multidimensional data processing techniques in the renewable energy sector, including data preprocessing, feature extraction, and multi-source data fusion, to address challenges posed by the complexity and variability of renewable energy generation data. Subsequently, the research investigates intelligent forecasting technologies across temporal and spatial scales through two complementary paradigms: deterministic forecasting models and probabilistic forecasting frameworks. The analysis specifically emphasizes how machine learning (ML) and deep learning (DL) architectures enhance deterministic prediction accuracy by effectively handling nonlinear relationships in high-dimensional data, while novel probabilistic approaches leveraging neural networks and ensemble techniques demonstrate superior capabilities in quantifying prediction uncertainty—a critical advancement for operational risk management. Finally, the study summarizes the advantages and limitations of current technologies, discusses future research directions, and emphasizes the importance of enhancing the robustness and real-time performance of intelligent forecasting models. The objectives of this study are twofold: (i) to promote intelligent development in the renewable energy sector, and (ii) to provide new insights into renewable energy generation through data processing and forecasting.
+ER  - 
+
+TY  - JOUR
+T1  - A taxonomy of key management schemes of SCADA systems
+AU  - TC, Pramod
+JO  - Computers and Electrical Engineering
+VL  - 124
+SP  - 110366
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2025.110366
+UR  - https://www.sciencedirect.com/science/article/pii/S004579062500309X
+KW  - Attacks
+KW  - Critical infrastructures
+KW  - Industrial automation systems security
+KW  - Key management
+KW  - Quantum key distribution
+KW  - Blockchain
+KW  - SCADA security
+AB  - The communication messages exchanged between industrial plant devices contain sensitive data. Secure communication plays a vital role in securing the communications of industrial devices. A key management mechanism is necessary for automation systems to handle the crypto keys used for secure communication. This paper focuses on presenting a framework for evaluating key management schemes specific to SCADA (Supervisory Control and Data Acquisition) requirements. It also aims to present a detailed review of key management schemes proposed for SCADA systems. The review considered the symmetric, asymmetric, and hybrid schemes, quantum key distribution, and blockchain-based key management schemes of SCADA systems. The paper outlines the existing SCADA key management schemes highlighting the benefits, limitations, and future scope. The future directions give the research gaps of SCADA key management schemes and possible research scope in the key management domain for industrial system security.
+ER  - 
+
+TY  - JOUR
+T1  - Improving operational reliability in hydropower units using incremental learning-based monitoring
+AU  - Lang, Xiao
+AU  - Nilsson, Håkan
+AU  - Mao, Wengang
+JO  - Renewable Energy
+VL  - 256
+SP  - 124513
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0960-1481
+DO  - https://doi.org/10.1016/j.renene.2025.124513
+UR  - https://www.sciencedirect.com/science/article/pii/S0960148125021779
+KW  - Hydropower operation
+KW  - Performance monitoring
+KW  - Incremental learning
+KW  - Data-driven modeling
+KW  - Renewable energy system
+KW  - Predictive maintenance
+AB  - Reliable and efficient operation of hydropower plants is essential for ensuring a stable renewable energy supply. However, the growing demand for frequency regulation in modern power systems has led to more frequent start-stop cycles and varying load conditions, introducing operational stresses that can accelerate the degradation of critical components. To address these challenges, this study proposes a data-driven incremental learning (IL) framework for performance monitoring and predictive maintenance in hydropower generation systems. The framework incrementally updates a neural network model using sliding window data stream, while retaining prior knowledge through a freezing-based adaptation strategy. Key performance indicators (KPIs) are derived by comparing model predictions under Monte Carlo-simulated reference conditions, providing quantitative insights into the progression of equipment health. The proposed method is validated using over three years of full-scale operational data from a Swedish hydropower plant. Results demonstrate that the IL-based approach successfully tracks KPI increases from 0 to 0.1 over two years of operation and detects abrupt KPI drops following planned maintenance, as observed in the case study bearings. Compared to conventional retraining methods, the IL framework offers improved adaptability and stability. By providing a robust framework for quantifying both gradual degradation and abrupt health status shifts, this work presents a direct pathway toward more proactive, condition-based maintenance strategies, ultimately enhancing the operational reliability and economic viability of hydropower assets.
+ER  - 
+
+TY  - JOUR
+T1  - A hybrid methodology for assessing hydropower plants under flexible operations: Leveraging experimental data and machine learning techniques
+AU  - Amini, Ali
+AU  - Rey-Mermet, Samuel
+AU  - Crettenand, Steve
+AU  - Münch-Alligné, Cécile
+JO  - Applied Energy
+VL  - 383
+SP  - 125402
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0306-2619
+DO  - https://doi.org/10.1016/j.apenergy.2025.125402
+UR  - https://www.sciencedirect.com/science/article/pii/S0306261925001321
+KW  - Hydropower
+KW  - Flexible production
+KW  - Experimental data
+KW  - Machine learning
+KW  - Virtual sensors
+AB  - In recent years, there's been a demand for more flexible hydropower to offset power fluctuations from intermittent renewables, leading to increased wear in turbines due to extended off-design operations and transients. The present paper proposes novel methods to analyze and assess experimental data of a hydropower plant for a better monitoring over time. Measurements are performed in a run-off-river plant with Francis turbines in Switzerland. During two experimental campaigns, high-frequency acquisitions up to 51.2 kHz are realized with more than 30 sensors while the SCADA data are collected at 10 Hz. In the physics-based analysis, statistical metrics and time-frequency decompositions are deployed to assess the operating conditions. To aggregate all information, the Vibrational Content Index is introduced, which unifies all sensors data by normalizing their frequency spectra with the Best Efficiency Point (BEP). This provides a single-value indicator of overall vibration, which is more sensitive than traditional metrics and easier to track over time. In the data-driven approach, the operating points are segmented into three clusters with distinct physical interpretations by applying dimensionality reduction algorithms with only two coded dimensions. This method correctly detects an abrupt change in the machine behavior for a slight power shift from 1.23PBEP to 1.30PBEP – due to full-load vortex self-excitation. Finally, the concept of virtual sensors is developed by corroborating the coded high-frequency experimental data with low-frequency SCADA using machine learning. The trained model uses SCADA data as input to estimate the sensors high-frequency response in real-time. This promising approach enables improved continuous monitoring without the need for permanent installations.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehensive review of classical and ai-driven energy management strategies for hybrid renewable energy systems
+AU  - Kouihi, Manal
+AU  - Bikndaren, Souhaila
+AU  - Moutchou, Mohamed
+AU  - ElMahjoub, Abdelhafid Ait
+AU  - Majdoul, Radouane
+JO  - e-Prime - Advances in Electrical Engineering, Electronics and Energy
+VL  - 13
+SP  - 101085
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 2772-6711
+DO  - https://doi.org/10.1016/j.prime.2025.101085
+UR  - https://www.sciencedirect.com/science/article/pii/S2772671125001925
+KW  - Hybrid renewable energy system (HRES)
+KW  - Energy management Strategies (EMS)
+KW  - Artificial Intelligence
+KW  - Storage systems
+KW  - Prediction and forecasting
+AB  - Effective energy management is essential for the performance and sustainability of hybrid renewable energy systems (HRES), which face challenges due to the variability of renewable sources and load demands. With such strategies in place, the system undergoes processes aimed at mitigation of renewable energy source and load demand variations. This review explores a wide range of management techniques, from traditional rule-based and optimization methods to advanced AI-driven approaches. The review also analyzes the strategies on the most basic measures of performance, which include scalability, flexibility, cost effectiveness, fragmentation, and structural defensibility. Special attention is given to the transformative role of AI in enhancing forecasting accuracy and real-time decision-making. This review provides energy management resources on HRES to help guide further progress and enhancement of energy strategy and conservation practices.
+ER  - 
