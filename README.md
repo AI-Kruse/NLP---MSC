@@ -13,7 +13,7 @@ This repository contains a complete NLP and Topic Modeling pipeline designed to 
 - `NLP_LDA_Analysis_Abstracts.py`: The main Python script for abstract analyzing.
 - `Results_Abstracts/`: Visualizations and metrics from abstract-level analysis.
 - `Results_FullText/`: Visualizations and metrics from full-text article analysis.
-- **Releases**: Download the 56MB `.zip` file containing the 98 PDF articles from the [Releases tab](https://github.com/AI-Kruse/NLP---MSC/releases/download/v0.1/Samling.av.dokumenter.zip).
+- Due to copyright restrictions, full-text PDFs are not provided. Metadata and DOI links for all 98 articles are available in the provided .ris files and can be downloaded if you have access there.
 
 ## How to Reproduce the Analysis
 To run this code successfully, follow these specific steps to ensure the file paths match the script's logic:
@@ -22,7 +22,7 @@ To run this code successfully, follow these specific steps to ensure the file pa
 2. **File Placement (CRITICAL)**: 
    - Download the `.ris` files (bibliographic data) from this repository.
    - **Place all .ris files in the same folder as the `.py` script.** The code uses relative paths and expects these files to be in the root directory.
-3. **Data**: Download the article ZIP from the **Releases** section and extract the PDFs into a folder where `NLP_LDA_Analysis_Full-text.py` is saved.
+3. **Data**: If the PDFs are downloaded, set them into a folder where `NLP_LDA_Analysis_Full-text.py` is saved for execution.
 4. **Execution**: Run the script in Spyder or your preferred IDE.
 
 ## Methodology
