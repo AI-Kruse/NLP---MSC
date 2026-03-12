@@ -1,0 +1,932 @@
+TY  - CONF
+TI  - Machine Learning Approach for Predictive Maintenance in Hydroelectric Power Plants
+T2  - 2022 IEEE Biennial Congress of Argentina (ARGENCON)
+SP  - 1
+EP  - 6
+AU  - V. Velasquez
+AU  - W. Flores
+PY  - 2022
+KW  - Deep learning
+KW  - Training
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Time series analysis
+KW  - Hydroelectric power generation
+KW  - Predictive models
+KW  - predictive maintenance
+KW  - anomaly detection
+KW  - machine learning
+KW  - condition monitoring
+KW  - hydropower
+DO  - 10.1109/ARGENCON55245.2022.9939782
+JO  - 2022 IEEE Biennial Congress of Argentina (ARGENCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Biennial Congress of Argentina (ARGENCON)
+Y1  - 7-9 Sept. 2022
+AB  - The future of hydropower industry has as key elements, optimization in operation and maintenance, costs reduction and increase of reliability. This means greater challenges in the operation of hydroelectric power plants, therefore, greater demands in maintenance. With technology advances and its role in the industrial sector through the revolution 4.0 or Industry 4.0, artificial intelligence and machine learning applications enables the development and modernization of current maintenance techniques in hydropower plants, through condition monitoring, fault diagnosis and predictive maintenance, thus, an early detection can save a lot of time and money.In this study, two techniques are proposed to enable predictive maintenance in the Peña Blanca hydroelectric power plant, using two deep learning models for anomaly detection. The first one consists of a Deep Neural Network with Logistic Regression to classify various types of failures, for the second one a Recurrent Long Short-Term Memory neural network (LSTM) with Autoencoder is used to classify various flaws. With the first model it was found that it is possible to generalize several types of failures, while the LSTM model adjust better on detecting high temperatures on generator bearings since was a failure that occurred frequently during the study.
+ER  - 
+
+TY  - CONF
+TI  - Fault Detection and Classification of Faults in Hydropower plants
+T2  - 2024 5th International Conference on Smart Electronics and Communication (ICOSEC)
+SP  - 105
+EP  - 110
+AU  - J. S. Swathi
+AU  - T. J. Jeffery Austin
+AU  - V. Mounesh
+AU  - S. Birundha
+PY  - 2024
+KW  - Support vector machines
+KW  - Fault diagnosis
+KW  - Accuracy
+KW  - Machine learning algorithms
+KW  - Fault detection
+KW  - Hydroelectric power generation
+KW  - Voltage
+KW  - Electrical fault detection
+KW  - Power system reliability
+KW  - Random forests
+KW  - Fault diagnosis
+KW  - Support Vector Machine
+KW  - Hydropower plants
+KW  - Random Forest
+KW  - Radial Basis Function Network
+DO  - 10.1109/ICOSEC61587.2024.10722544
+JO  - 2024 5th International Conference on Smart Electronics and Communication (ICOSEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Smart Electronics and Communication (ICOSEC)
+Y1  - 18-20 Sept. 2024
+AB  - The hydropower plants are crucial for safeguarding the consistency and the safety of the power generation systems.This research work presents a extensive study onthe classification of the electrical faults and the fault detection techniques in the hydropower plants. As hydropower systems become more sophisticated, the importance of being able to correctly identify and classify electrical faults has gained ever more significance. The main objective is to devise accurate methods for the identification and classification of the large diversity of electrical faults occurring in hydropower plants. The importance of effective classification and fault detection has increased manifold due to increased complexities of the modern power system coupled with the critical need to ensure reliable operational performance.The classification approach leverages the advanced machine learning algorithms which includes Support Vector Machine (SVM), Random Forest and Radial Basis Function Network (RBFN) to analyze the electrical signals and patterns associated with the different fault conditions. These techniques would be effective to identify the faults by considering the voltage and current evolved by the different phases of the hydropower plants. Comparisons of accuracy by SVM and Random Forest are made out and thus relate to the classification of fault detection of these hydropower plants. This paper presents a knowledge-based approach for fault diagnosis in hydroelectric power systems.
+ER  - 
+
+TY  - CONF
+TI  - Monitoring Hydropower Plants with LSTM-Based Time-series Forecasting
+T2  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+SP  - 1
+EP  - 5
+AU  - F. Hajimohammadali
+AU  - M. Tucci
+AU  - N. Fontana
+AU  - E. Crisostomi
+PY  - 2024
+KW  - Fault detection
+KW  - Time series analysis
+KW  - Hydroelectric power generation
+KW  - Europe
+KW  - Prediction algorithms
+KW  - Smart grids
+KW  - Sustainable development
+KW  - Long short term memory
+KW  - Monitoring
+KW  - Predictive maintenance
+KW  - Hydropower plants
+KW  - LSTM networks
+KW  - time series forecasting
+KW  - fault detection
+KW  - predictive maintenance
+KW  - deep learning
+DO  - 10.1109/ISGTEUROPE62998.2024.10863069
+JO  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)
+Y1  - 14-17 Oct. 2024
+AB  - Data analysis and intelligent monitoring hold notable significance in the new generation of industry, aiming to enhance predictive maintenance and fault detection. This study introduces a predictive system for control within hydropower plants. The approach involves the integration of data gathered from various sensors, based on data processing techniques and deep learning (DL) algorithms. The study explores the efficacy of Long Short-Term Memory (LSTM) algorithms, renowned for their precision in time series prediction, across two different structural configurations.
+ER  - 
+
+TY  - CONF
+TI  - Fault Detection of Hydroelectric Generators using Isolation Forest
+T2  - 2020 59th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE)
+SP  - 864
+EP  - 869
+AU  - Y. Hara
+AU  - Y. Fukuyama
+AU  - K. Murakami
+AU  - T. Iizaka
+AU  - T. Matsui
+PY  - 2020
+KW  - Fault detection
+KW  - Instruments
+KW  - Process control
+KW  - Forestry
+KW  - Feature extraction
+KW  - Generators
+KW  - Data models
+KW  - isolation forest
+KW  - machine learning
+KW  - fault detection
+KW  - hydroelectric generator
+DO  - 10.23919/SICE48898.2020.9240331
+JO  - 2020 59th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 59th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE)
+Y1  - 23-26 Sept. 2020
+AB  - This paper proposes a fault detection method for hydroelectric generators using isolation forest. In hydroelectric generators, since faults rarely occur, it is difficult to obtain fault data. Therefore, it is required to construct models automatically using only normal data and perform fault detection. Hydroelectric generator data have non-linear correlation. Isolation forest can develop models automatically with only normal data and have been verified to be effective for the data with the characteristic. Namely, it is expected to be effective for fault detection of hydroelectric generators. Effectiveness of the proposed method is verified by comparing with a Multivariate statistical process control (MSPC) based fault detection method. Results indicate that the proposed isolation forest based fault detection method is more accurate than the MSPC based method. It is also verified using Wilcoxon signed-rank test.
+ER  - 
+
+TY  - CONF
+TI  - Using Artificial Intelligence to Improve Reliability and Operational Efficiency of Small-Scale Hydroelectric Distributed Generation
+T2  - 2025 IEEE Rural Electric Power Conference (REPC)
+SP  - 48
+EP  - 53
+AU  - A. Bhattacharyya
+AU  - S. Mukherjee
+PY  - 2025
+KW  - Machine learning
+KW  - Predictive models
+KW  - Power system stability
+KW  - Real-time systems
+KW  - Stability analysis
+KW  - Power industry
+KW  - Distributed power generation
+KW  - Reliability
+KW  - Resilience
+KW  - Predictive maintenance
+KW  - Distributed Generation
+KW  - Reliability
+KW  - Resilience
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - Large Language Models
+KW  - Hydro DG
+KW  - Rural Electric Utilities
+DO  - 10.1109/REPC60353.2025.00017
+JO  - 2025 IEEE Rural Electric Power Conference (REPC)
+IS  - 
+SN  - 2153-3636
+VO  - 
+VL  - 
+JA  - 2025 IEEE Rural Electric Power Conference (REPC)
+Y1  - 29 April-1 May 2025
+AB  - Reliability and resilience are critical concerns for distributed generation (DG) at the rural electric level. The integration of renewable energy sources, such as small-scale hydroelectric distributed generators (hydro DGs), introduces operational challenges, particularly regarding aging infrastructure and grid stability. Artificial Intelligence (AI)-driven Machine Learning (ML) models and applications of Large Language Models (LLMs) offer promising solutions for optimizing DG operations and enhancing resilience. This paper explores AI-based models for improving efficiency, fault resolution, and outage mitigation in small-scale hydro DGs. Furthermore, it highlights the development of a centralized, AI-powered information portal for rural electric cooperatives and municipalities. The research evaluates hydro DG plant models and discusses the applicability of AI-powered question-answering tools for real-time operations, focusing on statistical data, load flow, voltage regulation, and generation power. The findings demonstrate AI’s potential to transform DG management to ensure greater stability and resilience in rural electric grids.
+ER  - 
+
+TY  - CONF
+TI  - One year Operation of an Innovative Condition Monitoring Technique in Four Hydropower Plants
+T2  - 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)
+SP  - 1176
+EP  - 1180
+AU  - A. Piazzi
+AU  - M. Tucci
+AU  - F. Ruffini
+AU  - E. Crisostomi
+PY  - 2020
+KW  - Condition monitoring
+KW  - Hydroelectric power generation
+KW  - Europe
+KW  - Tools
+KW  - Smart grids
+KW  - Monitoring
+KW  - Unsupervised learning
+KW  - Hydropower plants
+KW  - Self-Organizing Maps
+KW  - machine learning
+KW  - condition monitoring
+KW  - early detection
+DO  - 10.1109/ISGT-Europe47291.2020.9248948
+JO  - 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe)
+Y1  - 26-28 Oct. 2020
+AB  - This work presents the results of the application to four hydropower plants in Europe, with a total power of 1.4GW, of a recently developed monitoring and early diagnostic methodology. The innovative approach is based on data-driven and machine learning tools, such as Self-Organizing Maps, allowing an unsupervised learning of the global health state of the plant, and, at the same time, allowing to discriminate the plant variables involved in a faulty behaviour. A number of relevant incipient malfunctions were detected in early stage by our approach, during one year of operation in four plants, which are of different size and use different technologies. The feedback from the plant operators was very positive, with respect to the capacity of the system to reveal incipient faults, which were, in most cases, not properly detected by the traditional monitoring systems installed in the plants.
+ER  - 
+
+TY  - CONF
+TI  - Autoencoder-based Fault Diagnosis for Hydropower Plants
+T2  - 2023 IEEE Belgrade PowerTech
+SP  - 01
+EP  - 06
+AU  - F. Hajimohammadali
+AU  - N. Fontana
+AU  - M. Tucci
+AU  - E. Crisostomi
+PY  - 2023
+KW  - Fault diagnosis
+KW  - Renewable energy sources
+KW  - Machine learning algorithms
+KW  - Fault detection
+KW  - Computational modeling
+KW  - Hydroelectric power generation
+KW  - Internet of Things
+KW  - hydropower plants
+KW  - predictive maintenance
+KW  - fault detection
+KW  - autoencoders
+KW  - T2 Hotelling chart
+DO  - 10.1109/PowerTech55446.2023.10202753
+JO  - 2023 IEEE Belgrade PowerTech
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Belgrade PowerTech
+Y1  - 25-29 June 2023
+AB  - Industrial 4.0 is a technological revolution that encompasses innovative concepts including: the Internet of Things (IoT), cloud computing, data analytics, Artificial intelligence (AI), and machine learning algorithms. The benefits of industry 4.0 provide innovative approaches to increase the efficiency and performance of industrial equipment, including classic maintenance practices, which have recently evolved into predictive maintenance, and early fault detection techniques. In this paper, we focus on hydropower plants as one of the most valuable renewable energy resources and by using autoencoders networks, we obtain a smart model for fault detection that is convenient for mitigating the occurrence of potential damages or the length of maintenance closures. Finally, we validate the performance of this model, utilizing the well-known multi-variable control T2 Hotelling chart. The proposed auto encoder-based fault detection model successfully identifies potential faults in two hydropower plants.
+ER  - 
+
+TY  - CONF
+TI  - Application of Machine Learning Algorithms for Hydropower Equipment in Predictive Maintenance
+T2  - 2025 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+SP  - 588
+EP  - 593
+AU  - H. Ji
+AU  - M. Hou
+AU  - G. Xie
+AU  - J. Lin
+AU  - Y. Guo
+AU  - Q. Han
+AU  - L. Meng
+PY  - 2025
+KW  - Degradation
+KW  - Adaptation models
+KW  - Machine learning algorithms
+KW  - Accuracy
+KW  - Hydroelectric power generation
+KW  - Feature extraction
+KW  - Data models
+KW  - Maintenance
+KW  - Long short term memory
+KW  - Predictive maintenance
+KW  - predictive maintenance
+KW  - hydropower equipment
+KW  - machine learning
+KW  - LSTM
+KW  - XGBoost
+DO  - 10.1109/AEECA65693.2025.00108
+JO  - 2025 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)
+Y1  - 22-24 Aug. 2025
+AB  - The traditional maintenance mode of hydropower equipment relies on regular inspection and post-fault processing, which has problems such as large unplanned downtime losses and sudden failure risks of key components. In order to shift to predictive maintenance, this study aims to identify the degradation status of equipment in advance through machine learning algorithms. The specific methods include: deploying multi-source sensors such as vibration, temperature, and oil to collect equipment operation data in real time; performing wavelet packet decomposition on the original data to eliminate noise and extract time-frequency domain features; using Recursive Feature Elimination (RFE) to screen out 15 key degradation features; building a prediction model based on the fusion of eXtreme Gradient Boosting (XGBoost) and Long Short-Term Memory (LSTM), in which XGBoost processes static features and LSTM captures the time series dependency of vibration signals; applying transfer learning to adapt the 700MW unit training model to the 300MW unit. In the two-year operation data verification of 12 units in three hydropower stations, the model's bearing fault warning accuracy reaches 98.5%, with a false alarm rate of only 3.5%. Among 15 fault predictions, 14 are successfully predicted in advance, and the annual comprehensive maintenance cost is reduced by 22.8%. This solution proves that machine learning can achieve early and accurate prediction of hydropower equipment failures, and promote the maintenance strategy from "periodic maintenance" to "state-driven".
+ER  - 
+
+TY  - CONF
+TI  - Anomaly Detection of Hydropower Bearing Based on Convolutional Neural Network Autoencoder
+T2  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+SP  - 430
+EP  - 433
+AU  - H. Wang
+AU  - L. Wang
+AU  - L. Ma
+PY  - 2021
+KW  - Support vector machines
+KW  - Condition monitoring
+KW  - Renewable energy sources
+KW  - Conferences
+KW  - Neural networks
+KW  - Hydroelectric power generation
+KW  - Convolutional neural networks
+KW  - anomaly
+KW  - autoencoder
+KW  - hydropower bearing unit
+KW  - convolutional neural network
+DO  - 10.1109/CCET52649.2021.9544462
+JO  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+Y1  - 13-15 Aug. 2021
+AB  - Hydropower has become an important energy supply method due to its advantages of pollution-free, renewable, and abundant resources. With the development of detection technology, methods that can detect anomaly without stopping the hydropower unit have gradually gained attention. An autoencoder based on one-dimensional convolutional neural network is proposed for anomaly detection of bearing condition monitoring system of the hydropower unit. The input sensor signals contain 7 features, and the anomaly is judged by the residual error between the reconstructed data and the original data. The proposed method is compared with one-class support vector machine method and autoencoder method. The results show that the accuracy, precision and recall of the proposed method are significantly better than other methods. F1 score, AUC and confusion matrix also show that the proposed method is optimal. The proposed method achieves a detection effect superior to the existing methods with the combination of autoencoder and convolutional neural network.
+ER  - 
+
+TY  - CONF
+TI  - Anomaly Detection for Hydroelectric Power Plants: a Machine Learning-based Approach
+T2  - 2023 IEEE 21st International Conference on Industrial Informatics (INDIN)
+SP  - 1
+EP  - 6
+AU  - M. Fanan
+AU  - C. Baron
+AU  - R. Carli
+AU  - M. -A. Divernois
+AU  - J. -C. Marongiu
+AU  - G. A. Susto
+PY  - 2023
+KW  - Fault diagnosis
+KW  - Decision support systems
+KW  - Fault detection
+KW  - Green products
+KW  - Hydroelectric power generation
+KW  - Feature extraction
+KW  - Prediction algorithms
+KW  - Anomaly Detection
+KW  - Decision Support System
+KW  - Hydropower Plants
+KW  - Interpretability
+KW  - Machine Learning
+KW  - Maintenance Management
+KW  - Root Cause Analysis
+DO  - 10.1109/INDIN51400.2023.10218027
+JO  - 2023 IEEE 21st International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2023 IEEE 21st International Conference on Industrial Informatics (INDIN)
+Y1  - 18-20 July 2023
+AB  - Hydroelectric is currently the most prominent among the sources of green energy, but, differently from the other sources, it has very strict requirements in terms of security that are taken into account with extremely robust constraints both at design and operations control times. In this paper, we evaluated the effectiveness of anomaly detection and explainability algorithms to supplement Decision Support System insights in Predictive Maintenance and Root Cause Analysis for hydroelectric power plants. The objective is to reduce operational costs and increase reliability in the plant, making hydroelectric technology more appealing to investors and promoting the transition to renewable energy. Specifically, the performance of several anomaly detection models was compared on real-world data with respect to the needs of the expert of the domain, that is the final user of the DSS, to work as an additional feature to speed up predictive maintenance. Additionally, the impact of SHapley Additive exPlanations values on helping the user understand the anomaly causes was investigated. Our findings are that the most performing algorithm was Auto-Encoder since it was able to find all recorded anomalies and even propose additional ones later confirmed by domain experts. The application of SHAP values was found to effectively guide the user toward the features related to the anomaly, although its application on streaming data was slow.
+ER  - 
+
+TY  - CONF
+TI  - Establishment of Partial Discharge Database for Identification of Winding Problem of Hydropower Generator
+T2  - 2022 9th International Conference on Condition Monitoring and Diagnosis (CMD)
+SP  - 658
+EP  - 661
+AU  - T. Kuraishi
+AU  - S. Miyazaki
+PY  - 2022
+KW  - Partial discharges
+KW  - Databases
+KW  - Windings
+KW  - Stator windings
+KW  - Hydroelectric power generation
+KW  - Machine learning
+KW  - Maintenance engineering
+KW  - hydroelectric generator
+KW  - winding problem
+KW  - partial discharge
+KW  - stator coil
+KW  - machine learning technology
+DO  - 10.23919/CMD54214.2022.9991623
+JO  - 2022 9th International Conference on Condition Monitoring and Diagnosis (CMD)
+IS  - 
+SN  - 2644-271X
+VO  - 
+VL  - 
+JA  - 2022 9th International Conference on Condition Monitoring and Diagnosis (CMD)
+Y1  - 13-18 Nov. 2022
+AB  - Accurate and efficient maintenance inspections are essential for the rational replacement of stator windings of aged hydropower generators. In practice, the accuracy of maintenance inspection depends on engineers' experience. The shortage of senior engineers due to the aging population is a big problem, and technology transfer has been an essential concern in Japan in recent years. Various industries are trying to introduce systems for studying large amounts of maintenance and inspection data using machine learning technology to detect problems of apparatuses automatically. Machine learning technology can also be applied to the maintenance and inspection of stator windings to help engineers determine the maintenance policy. In this study, a database is developed; the database contains partial-discharge data measured at stator coils, which simulate winding problems in real stators.
+ER  - 
+
+TY  - CONF
+TI  - IOT Based Predictive Maintenance in Industry 4.0
+T2  - 2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)
+SP  - 143
+EP  - 145
+AU  - A. Sharma
+AU  - A. Aslekar
+PY  - 2022
+KW  - Industries
+KW  - Costs
+KW  - Supply chains
+KW  - Production
+KW  - Machine learning
+KW  - Quality control
+KW  - Fourth Industrial Revolution
+KW  - Industry 4.0
+KW  - IOT
+KW  - Predictive Maintenance
+KW  - Digitalization
+DO  - 10.1109/IIHC55949.2022.10059639
+JO  - 2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Interdisciplinary Humanitarian Conference for Sustainability (IIHC)
+Y1  - 18-19 Nov. 2022
+AB  - The purpose of this paper is to study the value of Predictive Maintenance in today's Industry. Industry 4.0 focuses on digitalization of the Industry, which means that traditional Maintenance methods need to be reformed. With the implementation of IOT in the Industry, new method of maintenance is introduce i.e. Predictive maintenance. For this research case study method has been used, where different use cases in different Industries has been analysed. All the industries are Industry 4.0 and have adopted IOT technologies for maintenance. Various articles, whitepapers, articles, online databases and reports has been studied to collect data for this research. The study will be useful for managers and government working in Industry. With proper implementation of Predictive Maintenance, increase in production rate, decrease in downtime of machinery and cost effective operations will provide competitive advantage to the industry. This paper presents how predictive maintenance can be implemented in different industries with the help of IOT and how to optimize it.
+ER  - 
+
+TY  - CONF
+TI  - Historical Data Based Monitoring of Hydro Generator Using Machine Learning
+T2  - 2022 14th International Conference on Software, Knowledge, Information Management and Applications (SKIMA)
+SP  - 61
+EP  - 66
+AU  - S. P. Dahal
+AU  - M. Dahal
+AU  - B. Silwal
+PY  - 2022
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Stator windings
+KW  - Hydroelectric power generation
+KW  - Voltage
+KW  - Machine learning
+KW  - Interference
+KW  - condition monitoring
+KW  - machine prognosis
+KW  - machine learning
+KW  - adaptive neuro fuzzy interference system
+KW  - synchronous generator
+DO  - 10.1109/SKIMA57145.2022.10029567
+JO  - 2022 14th International Conference on Software, Knowledge, Information Management and Applications (SKIMA)
+IS  - 
+SN  - 2573-3214
+VO  - 
+VL  - 
+JA  - 2022 14th International Conference on Software, Knowledge, Information Management and Applications (SKIMA)
+Y1  - 2-4 Dec. 2022
+AB  - This paper discusses the health monitoring of synchronous generators used in hydropower plants. In recent years, maintenance of generating stations has shifted its focus from preventive maintenance to predictive maintenance. Machine prognosis is a significant part of condition-based maintenance. It intends to monitor and track the time evolution of a fault, so that maintenance can be performed, or the task can be terminated to avoid a catastrophic failure. This paper focuses on the machine learning model for health detection of stator winding of synchronous generator by using stator terminal voltage and stator winding current as input and stator winding temperature as output. More than five years of real-time data of a synchronous generator of Sardikhola hydropower plant in Nepal are collected to predict and present the Adaptive Neuro-Fuzzy Interference System (ANFIS) model. This model predicts faulty data range and healthy data range of stator winding temperature corresponding to stator terminal voltage and current.
+ER  - 
+
+TY  - CONF
+TI  - Proposal for the Development of a Failure Prevention and Operational Optimization System for Generating Units of the Jirau Hydroelectric Power Plant
+T2  - 2025 AEIT International Annual Conference (AEIT)
+SP  - 1
+EP  - 6
+AU  - W. R. H. de Araújo
+AU  - M. R. C. Reis
+AU  - W. M. Fernandes
+AU  - R. Lucena
+AU  - J. Melo
+PY  - 2025
+KW  - Temperature sensors
+KW  - Vibrations
+KW  - Temperature distribution
+KW  - Fans
+KW  - Hydroelectric power generation
+KW  - Sensor systems
+KW  - Real-time systems
+KW  - Thermal analysis
+KW  - Planning
+KW  - Predictive maintenance
+KW  - Jirau Hydroelectric Power Plant
+KW  - bulb turbines
+KW  - thermal monitoring
+KW  - vibration sensors
+KW  - predictive maintenance
+DO  - 10.23919/AEIT67669.2025.11218084
+JO  - 2025 AEIT International Annual Conference (AEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 AEIT International Annual Conference (AEIT)
+Y1  - 10-12 Sept. 2025
+AB  - This article proposes a predictive maintenance system using vibration sensors for motor-driven fans in Jirau's bulb turbines. Failures in three or more fans cause temperature increases that threaten generation continuity. The system enables real-time diagnostics, reduces unplanned shutdowns, and supports proactive maintenance planning.
+ER  - 
+
+TY  - CONF
+TI  - Fault Detection of Hydroelectric Generators by Robust Random Cut Forest with Feature Selection Using Hilbert-Schmidt Independence Criterion
+T2  - 2021 IEEE International Conference on Smart Internet of Things (SmartIoT)
+SP  - 136
+EP  - 143
+AU  - Y. Hara
+AU  - Y. Fukuyama
+AU  - K. Arai
+AU  - Y. Shimasaki
+AU  - Y. Osada
+AU  - K. Murakami
+AU  - T. Iizaka
+AU  - T. Matsui
+PY  - 2021
+KW  - Data centers
+KW  - Costs
+KW  - Correlation
+KW  - Fault detection
+KW  - Conferences
+KW  - Forestry
+KW  - Feature extraction
+KW  - hydroelectric generator
+KW  - fault detection
+KW  - robust random cut forest
+KW  - hilbert-schmidt independence criterion
+KW  - machine learning
+DO  - 10.1109/SmartIoT52359.2021.00030
+JO  - 2021 IEEE International Conference on Smart Internet of Things (SmartIoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Smart Internet of Things (SmartIoT)
+Y1  - 13-15 Aug. 2021
+AB  - This paper proposes a fault detection method for hydroelectric generators by robust random cut forest (RRCF) with feature selection using Hilbert-Schmidt Independence Criterion (HSIC). It is difficult to obtain fault data because faults unlikely occur in hydroelectric generators. Therefore, only normal data can be utilized for developing a fault detection method. Since data of hydroelectric generators have non-linear correlation, the fault detection method must consider the correlation. In this paper, the fault detection method of hydroelectric generators is assumed to be installed as cloud services in a data center. Therefore, there are two requirements for the applied method in order to develop a practical fault detection system. The first one is that the method has to generate an appropriate fault detection model for each hydroelectric generator in a short time in order to reduce CPU cost in the data center. The second one is that the limited number of features must be selected in order to save storage cost in the data center and communication cost through the internet. Therefore, if all data of hydroelectric generators are gathered, communication and CPU usage fees must be expensive. In order to reduce the costs, it is required to utilize only data with effective features for fault detection. The proposed method can construct models using only normal data, detect faults using data with non-linear correlation, and select effective features for fault detection of hydroelectric generators. The proposed method is compared with an isolation forest (IF) based method with all features, an IF based method with features of the highest accuracy, a RRCF based method with all features, and a RRCF based method with features of the highest accuracy. Area Under the Curve (AUC) values and calculation time are evaluated from the point of view of practical application of fault detection in data center. The proposed method is verified to be the most effective from the point of view. The results are verified using the Mann-Whitney U test.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning for Degradation Estimation of Hydro Generator Units
+T2  - 2025 International Conference on Control, Automation and Diagnosis (ICCAD)
+SP  - 1
+EP  - 6
+AU  - S. Jad
+AU  - X. Desforges
+AU  - K. Medjaher
+AU  - P. Y. Villard
+AU  - C. Caussidery
+PY  - 2025
+KW  - Degradation
+KW  - Electricity
+KW  - Neural networks
+KW  - Autoencoders
+KW  - Hydroelectric power generation
+KW  - Production
+KW  - Market research
+KW  - Generators
+KW  - Monitoring
+KW  - Predictive maintenance
+KW  - Hydro generator units
+KW  - Predictive maintenance
+KW  - Autoencoder neural network
+KW  - Condition monitoring
+KW  - Health state estimation
+DO  - 10.1109/ICCAD64771.2025.11099154
+JO  - 2025 International Conference on Control, Automation and Diagnosis (ICCAD)
+IS  - 
+SN  - 2767-9896
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Control, Automation and Diagnosis (ICCAD)
+Y1  - 1-3 July 2025
+AB  - In the context of the ongoing electrification of energy usages and the integration of renewable energy capacity to address the challenges of climate change, several questions arise regarding the ability of the future electricity system to maintain the equilibrium between production and consumption, as new means for energy storage and transportation are developed. Historically in Europe, the task of balancing supply and demand for electricity has primarily fallen to thermal and hydro power plants, owing to their ability to swiftly adapt their power output on demand. However, as the average age of a hydropower plant in the continent is estimated to be 42 years, considering refurbishment dates, numerous challenges are foreseen concerning operational availability and security. Among various technologies considered, both proven and emerging, predictive maintenance holds particular significance for legacy powerplants.In this paper, we discuss the utilisation of autoencoder-type neural networks, based on the original proposition put forth by Hajimohammadali et al. to approximate the behaviours of hydro generator units during the operations, at varying levels of solicitation, environment conditions and phases of the production cycle. As such models were trained in data acquired on commercially exploited hydro generator units to produce a health indicator for trend degradation estimation, providing insight into the machine health status. It aims to tackle sector specific challenges for monitoring and maintenance of hydropower plants which are the distinctive designs, environment conditions and instrumentation levels between systems.
+ER  - 
+
+TY  - CONF
+TI  - Feature Selection Considering Characteristics of Operating Data and Random Cut Trees for Hydroelectric Generator Fault Detection
+T2  - 2022 12th International Conference on Cloud Computing, Data Science & Engineering (Confluence)
+SP  - 508
+EP  - 513
+AU  - Y. Hara
+AU  - Y. Fukuyama
+AU  - Y. Shimasaki
+AU  - Y. Osada
+AU  - K. Murakami
+AU  - T. Iizaka
+AU  - T. Matsui
+PY  - 2022
+KW  - Data centers
+KW  - Correlation
+KW  - Costs
+KW  - Fault detection
+KW  - Forestry
+KW  - Feature extraction
+KW  - Generators
+KW  - hydroelectric generator
+KW  - fault detection
+KW  - feature selection
+KW  - robust random cut forest
+KW  - machine learning
+DO  - 10.1109/Confluence52989.2022.9734226
+JO  - 2022 12th International Conference on Cloud Computing, Data Science & Engineering (Confluence)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 12th International Conference on Cloud Computing, Data Science & Engineering (Confluence)
+Y1  - 27-28 Jan. 2022
+AB  - This paper proposes feature selection (FS) considering characteristics of operating data and Random Cut Trees (RCTs) for hydroelectric generator (HG) fault detection (FD) by Robust Random Cut Forest (RRCF). If the faults are detected using knowledge of experts, huge efforts of the experts are required. Therefore, the faults should be detected using only data without knowledge of experts. The FD method has to treat non-linear correlation of HG operating data. Faults of HGs seldom occur and it is difficult to obtain fault operating data of HGs. Therefore, the faults must be detected by generating models with only normal data. In this paper, the developed HG FD method is assumed to be utilized in a data center for a HG FD service. Therefore, for reduction of communication and CPU costs, only effective features for HG FD should be selected. The proposed method can treat non-linear correlation of HG operating data. Without knowledge of experts, faults can be detected using only data. FD models can be generated with only normal operation data. Effective features for FD of HGs can be selected. The proposed method is compared with a RRCF based method using selected features by Hilbert-Schmidt Independence Criterion and k-nearest neighbor (HSIC-KNN-information coefficient and k-nearest neighbor (MIC-KNN-FS), and Isolation Forest (IF) and RRCF based methods using all features. The proposed method is confirmed to be more effective than other methods with calculation time and the Area Under the Curve (AUC) values. Moreover, the Kruskal-Wallis test and Mann-Whitney U test with Holm correction is applied to verify the results.
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Evolving Deep Learning Models for Predicting Hydropower Generation
+T2  - 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI)
+SP  - 1
+EP  - 6
+AU  - W. Girard
+AU  - H. Xu
+AU  - D. Yan
+PY  - 2024
+KW  - Deep learning
+KW  - Computational modeling
+KW  - Hydroelectric power generation
+KW  - Stochastic processes
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Data models
+KW  - deep learning model
+KW  - real-time evolving model
+KW  - changing environments
+KW  - fine-tuning
+KW  - hydropower generation
+DO  - 10.1109/ICMI60790.2024.10585701
+JO  - 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI)
+Y1  - 13-14 April 2024
+AB  - Deep learning models have shown great promise for predicting hydropower generation. Previous research has focused on energy output prediction or predictive maintenance using traditional artificial neural networks (ANNs). However, these models lack sustainability in the face of changing environmental conditions. The need for dynamic, real-time modeling becomes apparent in rapidly changing environments, where speed and accuracy of execution are critical. In this paper, we present a framework for real-time evolving deep learning (RT-EDL) models designed to accurately predict hydropower generation on a daily, weekly, and monthly basis. Our evolving model employs backpropagation techniques and a stochastic gradient descent optimizer to continuously fine-tune the model using newly acquired data points in real time. To validate our approach, we conduct a case study using the RT-EDL model and show how the hyperparameters in the evolving model can be adjusted to achieve optimal operation. Our experimental results not only demonstrate the feasibility and effectiveness of our real-time evolving model, but also highlight its superiority over traditional deep learning methods.
+ER  - 
+
+TY  - CONF
+TI  - An Axis Fault Detection Method of Hydraulic Turbine Unit Based on Lightgbm
+T2  - 2021 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)
+SP  - 535
+EP  - 539
+AU  - X. Zhao
+AU  - X. Liang
+AU  - W. Jin
+AU  - C. Chen
+AU  - Y. Liu
+PY  - 2021
+KW  - Hydraulic turbines
+KW  - Machine learning algorithms
+KW  - Fault detection
+KW  - Computational modeling
+KW  - Redundancy
+KW  - Feature extraction
+KW  - Trajectory
+KW  - hydraulic turbine unit
+KW  - axis fault detection
+KW  - feature extraction
+KW  - ensemble learning
+DO  - 10.1109/ICAICA52286.2021.9498194
+JO  - 2021 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)
+Y1  - 28-30 June 2021
+AB  - The axis trajectory of hydraulic turbine units is a key parameter to characterize whether hydraulic turbine operates normally. Abnormal axis trajectory affects the running state of hydraulic turbines directly, which affects the quality of power generation adversely. In this paper, we proposed an Axis fault detection method of hydraulic turbine unit based on Light Gradient Boosting Machine (Lightgbm). First, the key attributes are extracted from the historical jigger data, and built a dataset to characterize the state of axis. Then the kernel principal component analysis method is adopted to reduce dimension and redundancy of the dataset, which improves detection precision and efficiency obviously. Finally, the Lightgbm algorithm is optimized by regular loss function, which is used to diagnose the abnormal axial state of hydraulic turbine. The experimental results show that the detection accuracy of the method proposed in this paper is 97.18%, the method has high accuracy and real-time performance, which is of great significance to ensure the normal operation of the turbine unit.
+ER  - 
+
+TY  - CONF
+TI  - Exploratory Analysis and Pattern Recognition in Energy Production and Demand: A Data-Driven Approach Using Multi-Source Energy Metrics
+T2  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+SP  - 1418
+EP  - 1423
+AU  - A. Tiwari
+AU  - T. M. Dass
+AU  - V. Tiwari
+AU  - B. P. Alapatt
+PY  - 2025
+KW  - Measurement
+KW  - Renewable energy sources
+KW  - Explainable AI
+KW  - Hydroelectric power generation
+KW  - Production
+KW  - Reinforcement learning
+KW  - Coal
+KW  - Digital twins
+KW  - Forecasting
+KW  - Predictive maintenance
+DO  - 10.1109/ICoEIT63558.2025.11211558
+JO  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+Y1  - 4-5 July 2025
+AB  - Hydropower is a leading renewable energy source due to its high efficiency and low operational costs. However, it still faces significant environmental, operational, and forecasting challenges. This paper explores the use of machine learning (ML) models such as SARIMA, Random Forest (RF), and Neural Basis Expansion Analysis for Time Series (NBEATS) to optimize hydropower operations. By analyzing diverse data sets, including hydrometeorological data, plant operations, sensor inputs, and other energy production and demand metrics such as solar, wind, coal, nuclear, and storage, ML enhances decision-making in areas such as inflow forecasting, predictive maintenance, and environmental sustainability. The paper presents an exploratory analysis of 48 -hour energy production and demand patterns across multiple sources (Hydro, Coal, Solar, Wind, Nuclear, and Storage), offering insights into interdependencies and system behavior. It also reviews current ML applications in hydropower, highlights challenges such as data quality and model interpretability, and discusses emerging technologies such as reinforcement learning, explainable AI (XAI), and digital twins as promising future directions.
+ER  - 
+
+TY  - CONF
+TI  - Anomaly Detection for Small Hydropower Based on Deep Spatio-Temporal Modeling
+T2  - 2025 6th International Conference on Mechatronics Technology and Intelligent Manufacturing (ICMTIM)
+SP  - 624
+EP  - 630
+AU  - Y. Zhan
+AU  - B. Yang
+AU  - Y. Ma
+PY  - 2025
+KW  - Condition monitoring
+KW  - Time series analysis
+KW  - Hydroelectric power generation
+KW  - Sensor phenomena and characterization
+KW  - Data models
+KW  - Sensor systems
+KW  - Real-time systems
+KW  - Spatiotemporal phenomena
+KW  - Anomaly detection
+KW  - Monitoring
+KW  - small hydropower
+KW  - anomaly detection
+KW  - multivariate time-series
+KW  - deep learning
+DO  - 10.1109/ICMTIM65484.2025.11040954
+JO  - 2025 6th International Conference on Mechatronics Technology and Intelligent Manufacturing (ICMTIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference on Mechatronics Technology and Intelligent Manufacturing (ICMTIM)
+Y1  - 11-13 April 2025
+AB  - Anomaly detection in small hydropower plays a crucial role in small hydropower data-driven condition monitoring systems, contributing to improved equipment durability and reduced operational and maintenance expenses. Benefiting from advancements in the industrial internet, various sensors in small hydropower stations generate co-evolving time-series data with distinct characteristics at any given moment, which are recorded in the small hydropower condition monitoring system. The joint modeling of variable associations and temporal dependencies in small hydropower multivariate time-series data presents significant challenges for anomaly detection tasks. This study characterizes the complex relationships within small hydropower data as a combination of temporal dependencies and inter-feature correlations. To address these, it introduces a novel anomaly detection framework for multivariate time series, integrating adaptive graph structure learning, graph attention mechanisms, and temporal feature pyramid networks to effectively capture spatiotemporal dependencies. The proposed method aims to dynamically capture the most significant relationships, enabling timely detection of potential anomalies for more reliable small hydropower station monitoring. Experimental results on real-world sensor datasets from small hydropower stations show that the proposed method outperforms traditional approaches in anomaly detection, with superior capability in modeling the spatiotemporal dependencies inherent in multivariate time-series data.
+ER  - 
+
+TY  - CONF
+TI  - Digital Twin of Hydropower Plant
+T2  - 2025 IEEE 4th International Conference for Advancement in Technology (ICONAT)
+SP  - 1
+EP  - 8
+AU  - S. S. Sayyad
+AU  - V. D. Mithare
+AU  - A. S. Chavan
+AU  - S. P. Chavan
+AU  - Y. S. Mohite
+PY  - 2025
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Dams
+KW  - Decision making
+KW  - Hydroelectric power generation
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Maintenance
+KW  - Floods
+KW  - Water resources
+KW  - Digital Twin
+KW  - Decision-Making
+KW  - Sustainable energy
+KW  - 3D Visualization
+DO  - 10.1109/ICONAT66879.2025.11362853
+JO  - 2025 IEEE 4th International Conference for Advancement in Technology (ICONAT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 4th International Conference for Advancement in Technology (ICONAT)
+Y1  - 19-21 Sept. 2025
+AB  - Digital Twin (DT) technology is revolutionizing industrial and infrastructure management by providing a real-time virtual representation of physical assets and processes. This paper presents a Digital Twin framework for hydropower plants, designed to enhance operational efficiency, predictive maintenance, and risk management. Leveraging Unity for 3D visualization, AWS Cloud for scalable data storage, and PostgreSQL for real-time and historical data analysis, the system integrates key parameters such as water levels, sediment deposition, and structural health to optimize water resource management and predict flood risks. The framework uses high-fidelity 3D models generated in Blender to simulate operational scenarios, allowing for more informed decision-making and proactive infrastructure management. This research underscores the potential of DT in supporting sustainable energy operations and disaster resilience in regions like Kerala, Assam, Punjab, and Madhya Pradesh, where hydropower infrastructure is vital for regional development and flood management.
+ER  - 
+
+TY  - CONF
+TI  - AI-Based Temperature Monitoring System for Hydro Generators
+T2  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+SP  - 1
+EP  - 6
+AU  - S. D. Milić
+AU  - M. Kožicić
+PY  - 2024
+KW  - Temperature measurement
+KW  - Temperature sensors
+KW  - Fuzzy logic
+KW  - Recurrent neural networks
+KW  - Machine learning algorithms
+KW  - Decision making
+KW  - Rotors
+KW  - temperature monitoring system
+KW  - hydro generator
+KW  - fuzzy decision-making
+KW  - LSTM
+KW  - convolutional autoencoder
+DO  - 10.1109/INFOTEH60418.2024.10496027
+JO  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+IS  - 
+SN  - 2767-9470
+VO  - 
+VL  - 
+JA  - 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+Y1  - 20-22 March 2024
+AB  - Hydrogenerators operate in challenging environments, and temperature variations can significantly impact their performance. Temperature monitoring systems often rely on remote infrared and contact real-time temperature measurement of the generator. AI-based temperature monitoring systems offer a state-of-the-art solution, providing continuous, automated, and predictive maintenance capabilities. The paper presents a complex AI-based fuzzy decision-making algorithm for anomaly (overheated rotor pole) detection and failure prediction. Time-based analysis of operational parameters from SCADA systems is essential for failure prediction. The use of recurrent neural networks for time-series analysis and convolutional autoencoders for anomaly detection is especially emphasized. The paper also presents a fuzzy decision-making method that uses fuzzy logic to make decisions after analyzing the output of the AI models.
+ER  - 
+
+TY  - CONF
+TI  - IoT-Driven Predictive Maintenance for Energy-Efficient Industrial Systems
+T2  - 2024 5th International Conference for Emerging Technology (INCET)
+SP  - 1
+EP  - 8
+AU  - S. P. M
+AU  - V. Cheekati
+AU  - V. N. Prasad
+AU  - K. Prasad
+AU  - S. M. Ali
+AU  - H. Tarigonda
+PY  - 2024
+KW  - Renewable energy sources
+KW  - System integration
+KW  - Prediction algorithms
+KW  - Energy efficiency
+KW  - Sensors
+KW  - Internet of Things
+KW  - Sustainable development
+KW  - Internet of Things (IoT)
+KW  - Predictive Maintenance
+KW  - Energy Efficiency
+KW  - Renewable Energy Integration
+KW  - Industrial Systems
+KW  - Data Analytics
+KW  - Sustainability
+KW  - Operational Efficiency
+DO  - 10.1109/INCET61516.2024.10593017
+JO  - 2024 5th International Conference for Emerging Technology (INCET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference for Emerging Technology (INCET)
+Y1  - 24-26 May 2024
+AB  - This research examines the deployment of the internet of things (IoT) technologies for predictive maintenance in industrial facilities in an effort to achieve energy efficiency and ensure the integration of renewable energy sources. Through the application of various IoT sensors and predictive algorithms at different industrial spaces, the study will show what the effect of predictive maintenance on operating costs, equipment life, and energy consumption. The results show that the reduction in downtime and energy expenditure, which, in turn, helps in the optimization of renewable energy usage in favor of environmental sustainability. The study brings to the foreground the practical obstacles, like the privacy of data and system integration problems, and puts forward the measures that would enhance their resolution. Such results support the potency of IoT focused preventive maintenance in constructing a ‘green’, smart and productive industrial sector.
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent Data-Driven Diagnosis of Incipient Interturn Short Circuit Fault in Field Winding of Salient Pole Synchronous Generators
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 3286
+EP  - 3294
+AU  - H. Ehya
+AU  - T. N. Skreien
+AU  - A. Nysveen
+PY  - 2022
+KW  - Feature extraction
+KW  - Windings
+KW  - Sensors
+KW  - Synchronous generators
+KW  - Rotors
+KW  - Circuit faults
+KW  - Stator windings
+KW  - Air-gap magnetic field
+KW  - fault diagnosis
+KW  - feature extraction
+KW  - machine learning (ML)
+KW  - salient pole synchronous generator (SPSG)
+KW  - signal processing
+DO  - 10.1109/TII.2021.3054674
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 5
+SN  - 1941-0050
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - May 2022
+AB  - This article examines if machine learning (ML) and signal processing can be used for online condition monitoring to reveal interturn short circuit (ITSC) fault in the field winding of salient pole synchronous generators (SPSG). This was done by creating several ML classifiers to detect ITSC faults. A dataset for ML was built using power spectral density of the air-gap magnetic field extracted by fast Fourier transform, discrete wavelet transform energies, and Time Series FeatuRe Extraction based on Scalable Hypothesis tests (TSFRESH) to extract features from measurements of SPSG operated under several different severities of ITSC fault. Using this dataset, a wide range of classifiers were trained to detect the presence of ITSC faults. The classifiers evaluated were logistic regression, K-nearest neighbors, radial basis function support vector machine (SVM), linear SVM, XGBoost decision tree forest, multilayer perceptron, and a stacking ensemble classifier including all of the aforementioned. The classifiers were optimized using hyperparameter grid searches. In addition, some feature selection and reduction algorithms were assessed such as random forest feature selection, TSFRESH feature selection, and principal component analysis. This resulted in a classifier capable of detecting 84.5% of samples containing ITSC fault, with a 92.7% chance that fault detections are correct.
+ER  - 
+
+TY  - JOUR
+TI  - Review of Artificial Intelligence Methods for Faults Monitoring, Diagnosis, and Prognosis in Hydroelectric Synchronous Generators
+T2  - IEEE Access
+SP  - 173599
+EP  - 173617
+AU  - H. Bechara
+AU  - R. Ibrahim
+AU  - R. Zemouri
+AU  - B. Kedjar
+AU  - A. Merkhouf
+AU  - A. Tahan
+AU  - K. Al-Haddad
+PY  - 2024
+KW  - Monitoring
+KW  - Prognostics and health management
+KW  - Artificial intelligence
+KW  - Vibrations
+KW  - Generators
+KW  - Reviews
+KW  - Fault diagnosis
+KW  - Accuracy
+KW  - Support vector machines
+KW  - Feature extraction
+KW  - Artificial intelligence (AI)
+KW  - diagnosis
+KW  - hydroelectric generator unit (HGU)
+KW  - monitoring
+KW  - prognosis
+DO  - 10.1109/ACCESS.2024.3502546
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - This scientific article aims to provide a comprehensive review of fault monitoring, diagnosis, and prognosis methods based on Artificial Intelligence (AI) for Hydroelectric Generator Units (HGUs). It presents a compilation of research studies that have utilized AI models for fault monitoring, diagnosis, and prognosis in HGUs. Additionally, it outlines the process for building an AI model in the context of fault management in HGUs and discusses the advantages and disadvantages associated with AI methods in this domain. Furthermore, the article examines the research prospects and trends of AI models for fault management in HGUs. By synthesizing existing literature and highlighting future directions, this article serves as a valuable resource for researchers and practitioners seeking to leverage AI techniques for effective fault management in HGUs.
+ER  - 
+
+TY  - CONF
+TI  - Research on the Design and Application of Intelligent Inspection System Based on Digital Twin Technology
+T2  - 2024 Boao New Power System International Forum - Power System and New Energy Technology Innovation Forum (NPSIF)
+SP  - 733
+EP  - 739
+AU  - Y. Wang
+AU  - C. Wu
+AU  - L. Chen
+AU  - J. Xiao
+AU  - Z. Xu
+PY  - 2024
+KW  - Costs
+KW  - Hydroelectric power generation
+KW  - Virtual environments
+KW  - Inspection
+KW  - Video surveillance
+KW  - Maintenance
+KW  - Digital twins
+KW  - Power systems
+KW  - Information technology
+KW  - Monitoring
+KW  - Digital Twin
+KW  - Smart Patrol
+KW  - Online Monitoring
+KW  - Video Surveillance
+KW  - Predictive Alarming
+DO  - 10.1109/NPSIF64134.2024.10883528
+JO  - 2024 Boao New Power System International Forum - Power System and New Energy Technology Innovation Forum (NPSIF)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 Boao New Power System International Forum - Power System and New Energy Technology Innovation Forum (NPSIF)
+Y1  - 8-10 Dec. 2024
+AB  - With the rapid development of information technology, intelligence and digitalisation have become an important trend in the transformation and upgrading of the industrial sector. Traditional inspection methods for hydropower plants, such as manual periodic inspections or maintenance strategies based on fixed time intervals, suffer from outstanding problems such as inefficiency, high costs, and lagging information feedback. For this, we propose a design scheme for an intelligent inspection system based on digital twin technology and apply it to the actual inspection work of a hydropower plant. The intelligent inspection system adopts advanced digital twin technology, realising the deep integration of the physical and digital worlds by integrating real-time operational data collection, online monitoring, video surveillance and predictive alarms. The application of this intelligent inspection system significantly improves the efficiency and quality of inspection in hydropower plants, reduces unplanned downtime, lowers operation and maintenance costs, and provides strong technical support for intelligent operation and maintenance in the hydropower industry.
+ER  - 
+
+
